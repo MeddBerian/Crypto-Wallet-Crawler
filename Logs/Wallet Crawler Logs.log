@@ -1,1259 +1,229 @@
-2022-03-26 08:51:47,798 - INFO: Connected to the Internet!
-2022-03-26 08:51:53,959 - INFO: Checking for the existence of Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-26 08:51:53,960 - INFO: Please wait...
-2022-03-26 08:52:55,354 - INFO: Wallet address: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 exist!
-2022-03-26 08:52:55,478 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 is worth around $80,068.64
-2022-03-26 08:53:06,568 - INFO: Trying to extract details of all asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-26 08:53:16,959 - INFO: There are a total of 362 asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9, this might take longer time to be completed...
-2022-03-26 08:53:56,141 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - FF18.io extracted - [1 of 362 asset(s)]
-2022-03-26 08:55:38,842 - INFO: Connected to the Internet!
-2022-03-26 08:55:41,349 - INFO: Checking for the existence of Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-26 08:55:41,349 - INFO: Please wait...
-2022-03-26 08:57:05,154 - ERROR: This Wallet Address 0x896ea55f8728d46354df5abb0c6d08d577d324c9 does not exist!
-2022-03-26 08:57:05,155 - ERROR: Also, check if your Internet connection is strong, then retry!
-2022-03-26 08:57:33,874 - INFO: Checking for the existence of Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-26 08:57:33,874 - INFO: Please wait...
-2022-03-26 08:59:11,695 - INFO: Wallet address: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 exist!
-2022-03-26 08:59:14,625 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 is worth around $91,374.22
-2022-03-26 08:59:32,735 - INFO: Trying to extract details of all asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-26 08:59:44,522 - INFO: There are a total of 362 asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9, this might take longer time to be completed...
-2022-03-26 09:00:18,352 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - FF18.io extracted - [1 of 362 asset(s)]
-2022-03-26 09:01:05,016 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - KK8.io extracted - [2 of 362 asset(s)]
-2022-03-26 09:01:31,855 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - 1Gas.org extracted - [3 of 362 asset(s)]
-2022-03-26 09:02:17,797 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - PDot.io extracted - [4 of 362 asset(s)]
-2022-03-26 09:09:48,977 - INFO: Connected to the Internet!
-2022-03-26 09:09:54,375 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:09:54,376 - INFO: Please wait...
-2022-03-26 09:10:55,528 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:10:55,584 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $18,322.3
-2022-03-26 09:10:55,919 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:10:56,246 - INFO: There are a total of 18 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:10:56,869 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 18 asset(s)]
-2022-03-26 09:10:57,284 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 18 asset(s)]
-2022-03-26 09:10:57,603 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 18 asset(s)]
-2022-03-26 09:10:58,048 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 18 asset(s)]
-2022-03-26 09:10:58,353 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 18 asset(s)]
-2022-03-26 09:10:58,653 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [6 of 18 asset(s)]
-2022-03-26 09:10:59,172 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [7 of 18 asset(s)]
-2022-03-26 09:10:59,515 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [8 of 18 asset(s)]
-2022-03-26 09:10:59,997 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [9 of 18 asset(s)]
-2022-03-26 09:11:00,302 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [10 of 18 asset(s)]
-2022-03-26 09:11:00,612 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [11 of 18 asset(s)]
-2022-03-26 09:11:00,948 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [12 of 18 asset(s)]
-2022-03-26 09:11:01,353 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [13 of 18 asset(s)]
-2022-03-26 09:11:55,071 - INFO: Connected to the Internet!
-2022-03-26 09:19:05,780 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:19:05,781 - INFO: Please wait...
-2022-03-26 09:19:57,121 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:19:57,173 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $52,505.41
-2022-03-26 09:19:57,612 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:19:57,812 - INFO: There are a total of 19 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:19:58,518 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 19 asset(s)]
-2022-03-26 09:19:58,859 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 19 asset(s)]
-2022-03-26 09:19:59,163 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 19 asset(s)]
-2022-03-26 09:19:59,492 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 19 asset(s)]
-2022-03-26 09:19:59,986 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 19 asset(s)]
-2022-03-26 09:20:00,520 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [6 of 19 asset(s)]
-2022-03-26 09:20:00,805 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [7 of 19 asset(s)]
-2022-03-26 09:20:01,116 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [8 of 19 asset(s)]
-2022-03-26 09:20:01,575 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [9 of 19 asset(s)]
-2022-03-26 09:20:01,907 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [10 of 19 asset(s)]
-2022-03-26 09:20:02,196 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [11 of 19 asset(s)]
-2022-03-26 09:20:02,490 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [12 of 19 asset(s)]
-2022-03-26 09:20:02,964 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [13 of 19 asset(s)]
-2022-03-26 09:20:03,357 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [14 of 19 asset(s)]
-2022-03-26 09:20:03,648 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [15 of 19 asset(s)]
-2022-03-26 09:20:03,920 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [16 of 19 asset(s)]
-2022-03-26 09:20:04,443 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [17 of 19 asset(s)]
-2022-03-26 09:20:04,762 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [18 of 19 asset(s)]
-2022-03-26 09:20:05,042 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [19 of 19 asset(s)]
-2022-03-26 09:20:05,043 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [19 of 19 asset(s)]
-2022-03-26 09:21:48,299 - INFO: Connected to the Internet!
-2022-03-26 09:21:50,884 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:21:50,885 - INFO: Please wait...
-2022-03-26 09:23:36,388 - INFO: Connected to the Internet!
-2022-03-26 09:23:47,703 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:23:47,708 - INFO: Please wait...
-2022-03-26 09:24:17,388 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:24:17,442 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $52,412.52
-2022-03-26 09:24:17,757 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:24:17,955 - INFO: There are a total of 19 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:25:19,792 - INFO: Connected to the Internet!
-2022-03-26 09:25:27,282 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:25:27,283 - INFO: Please wait...
-2022-03-26 09:25:47,258 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:25:47,329 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $75,281.71
-2022-03-26 09:25:47,663 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:25:47,858 - INFO: There are a total of 19 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:25:48,330 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 19 asset(s)]
-2022-03-26 09:25:48,708 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 19 asset(s)]
-2022-03-26 09:25:49,005 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 19 asset(s)]
-2022-03-26 09:25:49,482 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 19 asset(s)]
-2022-03-26 09:25:49,985 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 19 asset(s)]
-2022-03-26 09:25:50,508 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [6 of 19 asset(s)]
-2022-03-26 09:25:51,137 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [7 of 19 asset(s)]
-2022-03-26 09:25:51,438 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [8 of 19 asset(s)]
-2022-03-26 09:25:51,736 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [9 of 19 asset(s)]
-2022-03-26 09:25:52,046 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [10 of 19 asset(s)]
-2022-03-26 09:25:52,355 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [11 of 19 asset(s)]
-2022-03-26 09:25:52,789 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [12 of 19 asset(s)]
-2022-03-26 09:25:53,211 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [13 of 19 asset(s)]
-2022-03-26 09:25:53,868 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [14 of 19 asset(s)]
-2022-03-26 09:25:54,248 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [15 of 19 asset(s)]
-2022-03-26 09:25:54,711 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [16 of 19 asset(s)]
-2022-03-26 09:25:55,013 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [17 of 19 asset(s)]
-2022-03-26 09:25:55,302 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [18 of 19 asset(s)]
-2022-03-26 09:25:55,537 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [19 of 19 asset(s)]
-2022-03-26 09:25:55,538 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [19 of 19 asset(s)]
-2022-03-26 09:25:55,989 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-26 09:26:48,507 - INFO: Connected to the Internet!
-2022-03-26 09:27:06,401 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:27:06,401 - INFO: Please wait...
-2022-03-26 09:28:06,358 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:28:06,403 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $51,666.32
-2022-03-26 09:28:06,848 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:28:07,417 - INFO: There are a total of 20 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:28:14,533 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 20 asset(s)]
-2022-03-26 09:28:15,445 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 20 asset(s)]
-2022-03-26 09:28:15,855 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 20 asset(s)]
-2022-03-26 09:28:19,795 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 20 asset(s)]
-2022-03-26 09:28:21,809 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 20 asset(s)]
-2022-03-26 09:28:22,607 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [6 of 20 asset(s)]
-2022-03-26 09:28:22,859 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [7 of 20 asset(s)]
-2022-03-26 09:28:23,520 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [8 of 20 asset(s)]
-2022-03-26 09:28:24,013 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [9 of 20 asset(s)]
-2022-03-26 09:28:24,351 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [10 of 20 asset(s)]
-2022-03-26 09:28:25,017 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [11 of 20 asset(s)]
-2022-03-26 09:28:25,348 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [12 of 20 asset(s)]
-2022-03-26 09:28:56,750 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-26 09:31:06,175 - INFO: Connected to the Internet!
-2022-03-26 09:31:22,572 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:31:22,572 - INFO: Please wait...
-2022-03-26 09:32:06,194 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:32:06,422 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $75,389.63
-2022-03-26 09:32:07,039 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:32:07,367 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:32:08,320 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 21 asset(s)]
-2022-03-26 09:32:09,184 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 21 asset(s)]
-2022-03-26 09:32:30,813 - INFO: Connected to the Internet!
-2022-03-26 09:32:33,653 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:32:33,653 - INFO: Please wait...
-2022-03-26 09:33:01,216 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:33:01,303 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $75,303
-2022-03-26 09:33:01,686 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:33:01,965 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:33:02,686 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 21 asset(s)]
-2022-03-26 09:33:03,331 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 21 asset(s)]
-2022-03-26 09:33:03,666 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 21 asset(s)]
-2022-03-26 09:33:04,120 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 21 asset(s)]
-2022-03-26 09:33:04,601 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 21 asset(s)]
-2022-03-26 09:37:57,628 - INFO: Connected to the Internet!
-2022-03-26 09:38:10,526 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:38:10,527 - INFO: Please wait...
-2022-03-26 09:39:21,897 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:39:21,951 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $18,198.2
-2022-03-26 09:39:22,387 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:39:22,583 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:39:23,174 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 21 asset(s)]
-2022-03-26 09:39:23,565 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 21 asset(s)]
-2022-03-26 09:39:24,088 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 21 asset(s)]
-2022-03-26 09:39:24,509 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 21 asset(s)]
-2022-03-26 09:39:24,828 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 21 asset(s)]
-2022-03-26 09:39:25,103 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [6 of 21 asset(s)]
-2022-03-26 09:39:25,413 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [7 of 21 asset(s)]
-2022-03-26 09:39:25,754 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [8 of 21 asset(s)]
-2022-03-26 09:41:10,695 - INFO: Connected to the Internet!
-2022-03-26 09:41:19,584 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:41:19,585 - INFO: Please wait...
-2022-03-26 09:41:54,298 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:41:54,353 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $52,190.27
-2022-03-26 09:41:54,716 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:41:54,933 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:41:55,680 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 21 asset(s)]
-2022-03-26 09:41:56,053 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 21 asset(s)]
-2022-03-26 09:49:55,363 - INFO: Connected to the Internet!
-2022-03-26 09:49:57,936 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:49:57,937 - INFO: Please wait...
-2022-03-26 09:51:52,765 - ERROR: This Wallet Address 0xcf9b378f6f9b3c2118842200d56b54524002a5fc does not exist!
-2022-03-26 09:51:52,766 - ERROR: Also, check if your Internet connection is strong, then retry!
-2022-03-26 09:52:52,600 - INFO: Connected to the Internet!
-2022-03-26 09:52:59,043 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:52:59,044 - INFO: Please wait...
-2022-03-26 09:53:45,225 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:53:45,316 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $51,814.94
-2022-03-26 09:53:45,753 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:53:46,030 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:54:45,503 - INFO: Connected to the Internet!
-2022-03-26 09:55:34,092 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:55:34,093 - INFO: Please wait...
-2022-03-26 09:56:35,481 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:56:35,968 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $51,875.46
-2022-03-26 09:56:37,759 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:56:38,455 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:57:40,461 - INFO: Connected to the Internet!
-2022-03-26 09:57:45,023 - ERROR: Invalid wallet address!
-2022-03-26 09:57:54,870 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:57:54,871 - INFO: Please wait...
-2022-03-26 09:58:29,573 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 09:58:29,636 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $52,061.23
-2022-03-26 09:58:30,037 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 09:58:30,280 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 09:58:30,895 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 21 asset(s)]
-2022-03-26 09:58:31,330 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 21 asset(s)]
-2022-03-26 09:58:31,638 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 21 asset(s)]
-2022-03-26 09:58:32,056 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 21 asset(s)]
-2022-03-26 09:58:32,386 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 21 asset(s)]
-2022-03-26 09:58:32,628 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [6 of 21 asset(s)]
-2022-03-26 10:01:28,142 - INFO: Connected to the Internet!
-2022-03-26 10:01:38,208 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:01:38,209 - INFO: Please wait...
-2022-03-26 10:02:11,360 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 10:02:11,409 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $52,190
-2022-03-26 10:02:11,786 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:02:11,999 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 10:02:12,550 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 21 asset(s)]
-2022-03-26 10:02:12,946 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 21 asset(s)]
-2022-03-26 10:02:13,245 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 21 asset(s)]
-2022-03-26 10:02:13,582 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 21 asset(s)]
-2022-03-26 10:02:13,891 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 21 asset(s)]
-2022-03-26 10:02:14,137 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [6 of 21 asset(s)]
-2022-03-26 10:02:14,443 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [7 of 21 asset(s)]
-2022-03-26 10:02:14,863 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [8 of 21 asset(s)]
-2022-03-26 10:02:15,331 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [9 of 21 asset(s)]
-2022-03-26 10:02:15,638 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [10 of 21 asset(s)]
-2022-03-26 10:02:16,076 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [11 of 21 asset(s)]
-2022-03-26 10:02:16,369 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [12 of 21 asset(s)]
-2022-03-26 10:07:41,148 - INFO: Connected to the Internet!
-2022-03-26 10:07:43,723 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:07:43,724 - INFO: Please wait...
-2022-03-26 10:08:24,477 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 10:08:24,539 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $52,225.3
-2022-03-26 10:08:24,942 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:08:25,164 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 10:08:25,753 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 21 asset(s)]
-2022-03-26 10:08:26,264 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 21 asset(s)]
-2022-03-26 10:08:26,764 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 21 asset(s)]
-2022-03-26 10:08:27,098 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 21 asset(s)]
-2022-03-26 10:12:03,123 - INFO: Connected to the Internet!
-2022-03-26 10:12:16,593 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:12:16,594 - INFO: Please wait...
-2022-03-26 10:12:53,614 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 10:12:53,663 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $52,194.2
-2022-03-26 10:12:54,101 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:12:54,329 - INFO: There are a total of 21 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 10:12:54,935 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 21 asset(s)]
-2022-03-26 10:12:55,378 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 21 asset(s)]
-2022-03-26 10:12:55,721 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 21 asset(s)]
-2022-03-26 10:33:50,430 - INFO: Connected to the Internet!
-2022-03-26 10:33:53,877 - ERROR: Invalid wallet address!
-2022-03-26 10:33:55,588 - ERROR: Invalid wallet address!
-2022-03-26 10:34:04,903 - INFO: Connected to the Internet!
-2022-03-26 10:34:19,528 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:34:19,528 - INFO: Please wait...
-2022-03-26 10:35:09,537 - INFO: Connected to the Internet!
-2022-03-26 10:35:11,848 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:35:11,849 - INFO: Please wait...
-2022-03-26 10:36:19,118 - ERROR: This Wallet Address 0xcf9b378f6f9b3c2118842200d56b54524002a5fc does not exist!
-2022-03-26 10:36:19,119 - ERROR: Also, check if your Internet connection is strong, then retry!
-2022-03-26 10:36:36,839 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:36:36,840 - INFO: Please wait...
-2022-03-26 10:38:33,220 - CRITICAL: No active internet connection!
-2022-03-26 10:39:06,244 - CRITICAL: No active internet connection!
-2022-03-26 10:40:32,483 - INFO: Connected to the Internet!
-2022-03-26 10:40:42,618 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:40:42,619 - INFO: Please wait...
-2022-03-26 10:41:36,703 - INFO: Connected to the Internet!
-2022-03-26 10:41:39,543 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:41:39,561 - INFO: Please wait...
-2022-03-26 10:45:16,617 - INFO: Connected to the Internet!
-2022-03-26 10:45:38,721 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:45:38,722 - INFO: Please wait...
-2022-03-26 10:46:08,174 - INFO: Connected to the Internet!
-2022-03-26 10:46:28,609 - INFO: Checking for the existence of Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-26 10:46:28,610 - INFO: Please wait...
-2022-03-26 10:47:22,336 - ERROR: This Wallet Address 0x896ea55f8728d46354df5abb0c6d08d577d324c9 does not exist!
-2022-03-26 10:47:22,337 - ERROR: Also, check if your Internet connection is strong, then retry!
-2022-03-26 10:51:30,772 - ERROR: Invalid wallet address!
-2022-03-26 10:51:43,677 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:51:43,678 - INFO: Please wait...
-2022-03-26 10:52:58,407 - ERROR: This Wallet Address 0xcf9b378f6f9b3c2118842200d56b54524002a5fc does not exist!
-2022-03-26 10:52:58,409 - ERROR: Also, check if your Internet connection is strong, then retry!
-2022-03-26 10:53:22,037 - ERROR: Invalid wallet address!
-2022-03-26 10:53:33,826 - INFO: Connected to the Internet!
-2022-03-26 10:53:44,348 - INFO: Checking for the existence of Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-26 10:53:44,349 - INFO: Please wait...
-2022-03-26 10:54:41,223 - INFO: Wallet address: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 exist!
-2022-03-26 10:54:41,358 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 is worth around $91,238.89
-2022-03-26 10:54:53,103 - INFO: Trying to extract details of all asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-26 10:55:02,881 - INFO: There are a total of 362 asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9, this might take longer time to be completed...
-2022-03-26 10:55:46,346 - INFO: Connected to the Internet!
-2022-03-26 10:58:11,847 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:58:11,848 - INFO: Please wait...
-2022-03-26 10:58:36,140 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 10:58:36,327 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $41,147.46
-2022-03-26 10:58:36,730 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 10:58:36,980 - INFO: There are a total of 22 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 10:58:37,594 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 22 asset(s)]
-2022-03-26 10:58:37,991 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 22 asset(s)]
-2022-03-26 10:58:38,545 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 22 asset(s)]
-2022-03-26 14:04:38,160 - CRITICAL: No active internet connection!
-2022-03-26 14:04:56,504 - INFO: Connected to the Internet!
-2022-03-26 14:05:00,185 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:05:00,186 - INFO: Please wait...
-2022-03-26 14:05:56,111 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 14:05:56,239 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $50,039.43
-2022-03-26 14:05:56,651 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:05:56,955 - INFO: There are a total of 25 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 14:05:57,768 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 25 asset(s)]
-2022-03-26 14:05:58,116 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 25 asset(s)]
-2022-03-26 14:05:58,518 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 25 asset(s)]
-2022-03-26 14:05:59,033 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 25 asset(s)]
-2022-03-26 14:05:59,646 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 25 asset(s)]
-2022-03-26 14:05:59,983 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [6 of 25 asset(s)]
-2022-03-26 14:06:00,592 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [7 of 25 asset(s)]
-2022-03-26 14:06:01,071 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [8 of 25 asset(s)]
-2022-03-26 14:06:52,499 - INFO: Connected to the Internet!
-2022-03-26 14:06:59,937 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:06:59,937 - INFO: Please wait...
-2022-03-26 14:07:36,596 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 14:07:36,678 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $50,035.4
-2022-03-26 14:07:37,081 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:07:37,457 - INFO: There are a total of 25 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 14:07:38,093 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 25 asset(s)]
-2022-03-26 14:07:38,572 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 25 asset(s)]
-2022-03-26 14:07:38,880 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 25 asset(s)]
-2022-03-26 14:07:39,549 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 25 asset(s)]
-2022-03-26 14:07:39,894 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 25 asset(s)]
-2022-03-26 14:11:17,061 - INFO: Connected to the Internet!
-2022-03-26 14:11:20,164 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:11:20,164 - INFO: Please wait...
-2022-03-26 14:11:39,779 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 14:11:39,864 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $41,289.3
-2022-03-26 14:11:40,271 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:11:40,523 - INFO: There are a total of 25 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 14:11:41,046 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 25 asset(s)]
-2022-03-26 14:11:41,433 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 25 asset(s)]
-2022-03-26 14:11:41,808 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 25 asset(s)]
-2022-03-26 14:11:42,133 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 25 asset(s)]
-2022-03-26 14:11:42,619 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 25 asset(s)]
-2022-03-26 14:11:42,949 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [6 of 25 asset(s)]
-2022-03-26 14:16:52,573 - INFO: Connected to the Internet!
-2022-03-26 14:16:59,266 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:16:59,268 - INFO: Please wait...
-2022-03-26 14:17:32,084 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 14:17:32,155 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $50,185.11
-2022-03-26 14:17:32,514 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:17:32,759 - INFO: There are a total of 25 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 14:17:33,331 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 25 asset(s)]
-2022-03-26 14:17:33,741 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 25 asset(s)]
-2022-03-26 14:17:34,052 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 25 asset(s)]
-2022-03-26 14:17:34,459 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 25 asset(s)]
-2022-03-26 14:17:34,779 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 25 asset(s)]
-2022-03-26 14:17:35,104 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [6 of 25 asset(s)]
-2022-03-26 14:18:11,401 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [8 of 25 asset(s)]
-2022-03-26 14:18:11,759 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [9 of 25 asset(s)]
-2022-03-26 14:18:12,103 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [10 of 25 asset(s)]
-2022-03-26 14:18:12,425 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [11 of 25 asset(s)]
-2022-03-26 14:18:12,769 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [12 of 25 asset(s)]
-2022-03-26 14:18:13,100 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [13 of 25 asset(s)]
-2022-03-26 14:18:13,437 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [14 of 25 asset(s)]
-2022-03-26 14:18:13,710 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [15 of 25 asset(s)]
-2022-03-26 14:18:14,065 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [16 of 25 asset(s)]
-2022-03-26 14:18:14,399 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [17 of 25 asset(s)]
-2022-03-26 14:18:14,740 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [18 of 25 asset(s)]
-2022-03-26 14:18:15,059 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [19 of 25 asset(s)]
-2022-03-26 14:18:15,435 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [20 of 25 asset(s)]
-2022-03-26 14:18:15,871 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [21 of 25 asset(s)]
-2022-03-26 14:18:16,208 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [22 of 25 asset(s)]
-2022-03-26 14:18:16,661 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [23 of 25 asset(s)]
-2022-03-26 14:18:16,999 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [24 of 25 asset(s)]
-2022-03-26 14:18:17,517 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [25 of 25 asset(s)]
-2022-03-26 14:18:17,518 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [25 of 25 asset(s)]
-2022-03-26 14:19:35,775 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-26 14:24:19,776 - INFO: Connected to the Internet!
-2022-03-26 14:24:47,908 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:24:47,908 - INFO: Please wait...
-2022-03-26 14:28:25,025 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 14:28:25,184 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $50,101.53
-2022-03-26 14:28:25,661 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:28:25,981 - INFO: There are a total of 26 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 14:28:27,475 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 26 asset(s)]
-2022-03-26 14:28:28,117 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 26 asset(s)]
-2022-03-26 14:28:28,459 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 26 asset(s)]
-2022-03-26 14:28:29,056 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 26 asset(s)]
-2022-03-26 14:28:30,144 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 26 asset(s)]
-2022-03-26 14:28:30,468 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [6 of 26 asset(s)]
-2022-03-26 14:30:10,529 - INFO: Connected to the Internet!
-2022-03-26 14:30:18,535 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:30:18,537 - INFO: Please wait...
-2022-03-26 14:32:18,848 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 14:32:18,901 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $16,106.11
-2022-03-26 14:32:19,455 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:32:19,885 - INFO: There are a total of 26 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 14:32:21,120 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 26 asset(s)]
-2022-03-26 14:32:21,779 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 26 asset(s)]
-2022-03-26 14:32:22,106 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 26 asset(s)]
-2022-03-26 14:32:23,094 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 26 asset(s)]
-2022-03-26 14:32:23,430 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 26 asset(s)]
-2022-03-26 14:32:23,815 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [6 of 26 asset(s)]
-2022-03-26 14:34:57,390 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [8 of 26 asset(s)]
-2022-03-26 14:34:58,334 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [9 of 26 asset(s)]
-2022-03-26 14:34:58,712 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [10 of 26 asset(s)]
-2022-03-26 14:34:59,818 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [11 of 26 asset(s)]
-2022-03-26 14:35:00,148 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [12 of 26 asset(s)]
-2022-03-26 14:35:00,580 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [13 of 26 asset(s)]
-2022-03-26 14:35:01,065 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [14 of 26 asset(s)]
-2022-03-26 14:35:01,576 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [15 of 26 asset(s)]
-2022-03-26 14:35:01,972 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [16 of 26 asset(s)]
-2022-03-26 14:35:02,585 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [17 of 26 asset(s)]
-2022-03-26 14:35:03,093 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [18 of 26 asset(s)]
-2022-03-26 14:35:03,618 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [19 of 26 asset(s)]
-2022-03-26 14:35:04,052 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [20 of 26 asset(s)]
-2022-03-26 14:35:04,522 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [21 of 26 asset(s)]
-2022-03-26 14:35:05,771 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [22 of 26 asset(s)]
-2022-03-26 14:35:06,251 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [23 of 26 asset(s)]
-2022-03-26 14:35:06,737 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [24 of 26 asset(s)]
-2022-03-26 14:35:08,114 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [25 of 26 asset(s)]
-2022-03-26 14:35:08,537 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [26 of 26 asset(s)]
-2022-03-26 14:35:08,538 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [26 of 26 asset(s)]
-2022-03-26 14:36:15,276 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-26 14:48:57,199 - INFO: Connected to the Internet!
-2022-03-26 14:49:06,858 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:49:06,859 - INFO: Please wait...
-2022-03-26 14:50:54,425 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 14:50:54,501 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $49,701.55
-2022-03-26 14:50:55,033 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:50:55,370 - INFO: There are a total of 28 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 14:50:56,382 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 28 asset(s)]
-2022-03-26 14:50:56,927 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 28 asset(s)]
-2022-03-26 14:50:57,356 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 28 asset(s)]
-2022-03-26 14:50:58,341 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 28 asset(s)]
-2022-03-26 14:50:59,108 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 28 asset(s)]
-2022-03-26 14:52:15,742 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [7 of 28 asset(s)]
-2022-03-26 14:52:16,172 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [8 of 28 asset(s)]
-2022-03-26 14:52:16,499 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [9 of 28 asset(s)]
-2022-03-26 14:52:16,818 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [10 of 28 asset(s)]
-2022-03-26 14:52:17,300 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [11 of 28 asset(s)]
-2022-03-26 14:52:17,618 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [12 of 28 asset(s)]
-2022-03-26 14:52:17,935 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [13 of 28 asset(s)]
-2022-03-26 14:52:18,252 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [14 of 28 asset(s)]
-2022-03-26 14:52:18,505 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [15 of 28 asset(s)]
-2022-03-26 14:52:18,840 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [16 of 28 asset(s)]
-2022-03-26 14:52:19,343 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [17 of 28 asset(s)]
-2022-03-26 14:52:19,701 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [18 of 28 asset(s)]
-2022-03-26 14:52:20,062 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [19 of 28 asset(s)]
-2022-03-26 14:52:20,397 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [20 of 28 asset(s)]
-2022-03-26 14:52:20,719 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [21 of 28 asset(s)]
-2022-03-26 14:52:21,048 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [22 of 28 asset(s)]
-2022-03-26 14:52:21,395 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [23 of 28 asset(s)]
-2022-03-26 14:52:21,741 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [24 of 28 asset(s)]
-2022-03-26 14:52:22,058 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [25 of 28 asset(s)]
-2022-03-26 14:52:22,375 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [26 of 28 asset(s)]
-2022-03-26 14:52:22,898 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [27 of 28 asset(s)]
-2022-03-26 14:52:23,344 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [28 of 28 asset(s)]
-2022-03-26 14:52:23,345 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [28 of 28 asset(s)]
-2022-03-26 14:52:28,493 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-26 14:52:43,004 - INFO: Connected to the Internet!
-2022-03-26 14:52:50,467 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:52:50,468 - INFO: Please wait...
-2022-03-26 14:54:50,629 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 14:54:50,716 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $49,800.36
-2022-03-26 14:54:51,130 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 14:54:51,446 - INFO: There are a total of 28 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 14:54:52,446 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 28 asset(s)]
-2022-03-26 14:54:53,433 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 28 asset(s)]
-2022-03-26 14:54:54,112 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 28 asset(s)]
-2022-03-26 14:54:54,780 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 28 asset(s)]
-2022-03-26 14:54:55,091 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [5 of 28 asset(s)]
-2022-03-26 14:54:55,483 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [6 of 28 asset(s)]
-2022-03-26 23:56:33,855 - INFO: Connected to the Internet!
-2022-03-26 23:56:55,027 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 23:56:55,027 - INFO: Please wait...
-2022-03-26 23:57:52,583 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-26 23:57:52,673 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $64,482.11
-2022-03-26 23:57:53,178 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-26 23:57:53,481 - INFO: There are a total of 35 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-26 23:57:54,167 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 35 asset(s)]
-2022-03-26 23:57:54,729 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 35 asset(s)]
-2022-03-26 23:57:55,322 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 35 asset(s)]
-2022-03-26 23:57:55,954 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 35 asset(s)]
-2022-03-26 23:57:56,294 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 35 asset(s)]
-2022-03-26 23:57:56,806 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 35 asset(s)]
-2022-03-26 23:57:57,152 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 35 asset(s)]
-2022-03-26 23:57:57,517 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [8 of 35 asset(s)]
-2022-03-26 23:57:57,892 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 35 asset(s)]
-2022-03-26 23:57:58,261 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 35 asset(s)]
-2022-03-26 23:57:58,839 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [11 of 35 asset(s)]
-2022-03-26 23:57:59,200 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [12 of 35 asset(s)]
-2022-03-26 23:57:59,890 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 35 asset(s)]
-2022-03-26 23:58:00,409 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 35 asset(s)]
-2022-03-26 23:58:00,753 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [15 of 35 asset(s)]
-2022-03-26 23:58:01,089 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [16 of 35 asset(s)]
-2022-03-26 23:58:01,401 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 35 asset(s)]
-2022-03-26 23:58:01,773 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [18 of 35 asset(s)]
-2022-03-26 23:58:02,118 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [19 of 35 asset(s)]
-2022-03-26 23:58:02,509 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [20 of 35 asset(s)]
-2022-03-26 23:58:02,994 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [21 of 35 asset(s)]
-2022-03-26 23:58:03,510 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [22 of 35 asset(s)]
-2022-03-26 23:58:03,852 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [23 of 35 asset(s)]
-2022-03-26 23:58:04,363 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [24 of 35 asset(s)]
-2022-03-26 23:58:04,904 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [25 of 35 asset(s)]
-2022-03-26 23:58:05,263 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [26 of 35 asset(s)]
-2022-03-26 23:58:05,655 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [27 of 35 asset(s)]
-2022-03-26 23:58:06,317 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [28 of 35 asset(s)]
-2022-03-26 23:58:06,651 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [29 of 35 asset(s)]
-2022-03-26 23:58:07,020 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [30 of 35 asset(s)]
-2022-03-26 23:58:07,746 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [31 of 35 asset(s)]
-2022-03-26 23:58:08,066 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [32 of 35 asset(s)]
-2022-03-26 23:58:08,453 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [33 of 35 asset(s)]
-2022-03-26 23:58:08,861 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [34 of 35 asset(s)]
-2022-03-26 23:58:09,223 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [35 of 35 asset(s)]
-2022-03-26 23:58:09,225 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [35 of 35 asset(s)]
-2022-03-26 23:59:10,857 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-26 23:59:33,933 - INFO: Connected to the Internet!
-2022-03-27 00:00:08,419 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 00:00:08,420 - INFO: Please wait...
-2022-03-27 00:00:42,676 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 00:00:42,740 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $64,538.38
-2022-03-27 00:00:43,402 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 00:00:43,709 - INFO: There are a total of 35 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 00:00:44,285 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 35 asset(s)]
-2022-03-27 00:00:44,761 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 35 asset(s)]
-2022-03-27 00:00:45,102 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 35 asset(s)]
-2022-03-27 00:00:45,571 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 35 asset(s)]
-2022-03-27 00:00:45,839 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 35 asset(s)]
-2022-03-27 00:00:46,229 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 35 asset(s)]
-2022-03-27 00:00:46,563 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 35 asset(s)]
-2022-03-27 00:00:46,901 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [8 of 35 asset(s)]
-2022-03-27 00:01:33,770 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 35 asset(s)]
-2022-03-27 00:01:34,367 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [11 of 35 asset(s)]
-2022-03-27 00:01:34,774 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [12 of 35 asset(s)]
-2022-03-27 00:01:35,268 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 35 asset(s)]
-2022-03-27 00:01:35,793 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 35 asset(s)]
-2022-03-27 00:01:36,198 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [15 of 35 asset(s)]
-2022-03-27 00:01:36,579 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [16 of 35 asset(s)]
-2022-03-27 00:01:36,927 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 35 asset(s)]
-2022-03-27 00:01:37,477 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [18 of 35 asset(s)]
-2022-03-27 00:01:37,844 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [19 of 35 asset(s)]
-2022-03-27 00:01:38,421 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [20 of 35 asset(s)]
-2022-03-27 00:01:38,957 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [21 of 35 asset(s)]
-2022-03-27 00:01:39,284 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [22 of 35 asset(s)]
-2022-03-27 00:01:39,636 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [23 of 35 asset(s)]
-2022-03-27 00:01:40,068 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [24 of 35 asset(s)]
-2022-03-27 00:01:40,703 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [25 of 35 asset(s)]
-2022-03-27 00:01:41,048 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [26 of 35 asset(s)]
-2022-03-27 00:01:41,416 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [27 of 35 asset(s)]
-2022-03-27 00:01:41,779 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [28 of 35 asset(s)]
-2022-03-27 00:01:42,133 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [29 of 35 asset(s)]
-2022-03-27 00:01:42,498 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [30 of 35 asset(s)]
-2022-03-27 00:01:42,893 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [31 of 35 asset(s)]
-2022-03-27 00:01:43,255 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [32 of 35 asset(s)]
-2022-03-27 00:01:43,847 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [33 of 35 asset(s)]
-2022-03-27 00:01:44,354 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [34 of 35 asset(s)]
-2022-03-27 00:01:44,712 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [35 of 35 asset(s)]
-2022-03-27 00:01:44,713 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [35 of 35 asset(s)]
-2022-03-27 00:02:14,965 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-27 00:10:09,105 - INFO: Connected to the Internet!
-2022-03-27 00:13:41,538 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 00:13:41,540 - INFO: Please wait...
-2022-03-27 00:15:04,094 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 00:15:04,220 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $86,213.86
-2022-03-27 00:15:04,778 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 00:15:05,076 - INFO: There are a total of 35 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 00:15:05,796 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 35 asset(s)]
-2022-03-27 00:15:06,360 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 35 asset(s)]
-2022-03-27 00:15:06,769 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 35 asset(s)]
-2022-03-27 00:15:07,190 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 35 asset(s)]
-2022-03-27 00:15:07,493 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 35 asset(s)]
-2022-03-27 00:16:18,064 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 35 asset(s)]
-2022-03-27 00:16:18,677 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [8 of 35 asset(s)]
-2022-03-27 00:16:19,060 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 35 asset(s)]
-2022-03-27 00:16:19,461 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 35 asset(s)]
-2022-03-27 00:16:19,827 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [11 of 35 asset(s)]
-2022-03-27 00:16:20,155 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 35 asset(s)]
-2022-03-27 00:16:59,661 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 35 asset(s)]
-2022-03-27 00:17:00,332 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [15 of 35 asset(s)]
-2022-03-27 00:17:00,866 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [16 of 35 asset(s)]
-2022-03-27 00:17:01,332 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 35 asset(s)]
-2022-03-27 00:17:01,652 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [18 of 35 asset(s)]
-2022-03-27 00:17:01,976 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [19 of 35 asset(s)]
-2022-03-27 00:17:02,390 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [20 of 35 asset(s)]
-2022-03-27 00:17:02,806 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [21 of 35 asset(s)]
-2022-03-27 00:17:03,112 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [22 of 35 asset(s)]
-2022-03-27 00:17:03,429 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [23 of 35 asset(s)]
-2022-03-27 00:17:04,062 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [24 of 35 asset(s)]
-2022-03-27 00:17:04,627 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [25 of 35 asset(s)]
-2022-03-27 00:17:04,984 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [26 of 35 asset(s)]
-2022-03-27 00:17:05,354 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [27 of 35 asset(s)]
-2022-03-27 00:17:05,906 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [28 of 35 asset(s)]
-2022-03-27 00:17:06,272 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [29 of 35 asset(s)]
-2022-03-27 00:17:06,655 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [30 of 35 asset(s)]
-2022-03-27 00:17:07,055 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [31 of 35 asset(s)]
-2022-03-27 00:17:07,410 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [32 of 35 asset(s)]
-2022-03-27 00:17:07,764 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [33 of 35 asset(s)]
-2022-03-27 00:17:08,125 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [34 of 35 asset(s)]
-2022-03-27 00:17:08,597 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [35 of 35 asset(s)]
-2022-03-27 00:17:08,598 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [35 of 35 asset(s)]
-2022-03-27 01:04:54,309 - INFO: Connected to the Internet!
-2022-03-27 01:05:02,489 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:05:02,491 - INFO: Please wait...
-2022-03-27 01:05:30,132 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:05:30,182 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $65,117.42
-2022-03-27 01:05:30,787 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:05:31,113 - INFO: There are a total of 37 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:05:31,727 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 37 asset(s)]
-2022-03-27 01:05:32,181 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 37 asset(s)]
-2022-03-27 01:05:32,531 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 37 asset(s)]
-2022-03-27 01:05:33,031 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 37 asset(s)]
-2022-03-27 01:05:33,326 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 37 asset(s)]
-2022-03-27 01:05:33,704 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 37 asset(s)]
-2022-03-27 01:05:34,084 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 37 asset(s)]
-2022-03-27 01:05:34,518 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [8 of 37 asset(s)]
-2022-03-27 01:05:35,017 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 37 asset(s)]
-2022-03-27 01:05:35,371 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [10 of 37 asset(s)]
-2022-03-27 01:05:35,726 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [11 of 37 asset(s)]
-2022-03-27 01:05:36,063 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 37 asset(s)]
-2022-03-27 01:05:36,395 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 37 asset(s)]
-2022-03-27 01:05:36,830 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 37 asset(s)]
-2022-03-27 01:05:37,198 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 37 asset(s)]
-2022-03-27 01:05:37,523 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [16 of 37 asset(s)]
-2022-03-27 01:05:37,844 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 37 asset(s)]
-2022-03-27 01:05:38,186 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [18 of 37 asset(s)]
-2022-03-27 01:05:38,632 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [19 of 37 asset(s)]
-2022-03-27 01:05:39,230 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [20 of 37 asset(s)]
-2022-03-27 01:05:39,793 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [21 of 37 asset(s)]
-2022-03-27 01:05:40,136 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [22 of 37 asset(s)]
-2022-03-27 01:05:40,459 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [23 of 37 asset(s)]
-2022-03-27 01:05:40,834 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [24 of 37 asset(s)]
-2022-03-27 01:05:41,334 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [25 of 37 asset(s)]
-2022-03-27 01:05:41,666 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [26 of 37 asset(s)]
-2022-03-27 01:05:42,033 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [27 of 37 asset(s)]
-2022-03-27 01:05:42,491 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [28 of 37 asset(s)]
-2022-03-27 01:05:43,061 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [29 of 37 asset(s)]
-2022-03-27 01:05:43,437 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [30 of 37 asset(s)]
-2022-03-27 01:05:44,004 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [31 of 37 asset(s)]
-2022-03-27 01:05:44,455 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [32 of 37 asset(s)]
-2022-03-27 01:05:44,728 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [33 of 37 asset(s)]
-2022-03-27 01:05:45,106 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [34 of 37 asset(s)]
-2022-03-27 01:05:45,468 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [35 of 37 asset(s)]
-2022-03-27 01:05:45,788 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [36 of 37 asset(s)]
-2022-03-27 01:05:46,143 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [37 of 37 asset(s)]
-2022-03-27 01:05:46,144 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [37 of 37 asset(s)]
-2022-03-27 01:06:11,939 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-27 01:11:15,122 - INFO: Connected to the Internet!
-2022-03-27 01:11:23,609 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:11:23,610 - INFO: Please wait...
-2022-03-27 01:11:50,743 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:11:50,806 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $65,266.21
-2022-03-27 01:11:51,333 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:11:51,651 - INFO: There are a total of 37 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:11:52,460 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 36 asset(s)]
-2022-03-27 01:11:52,954 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 35 asset(s)]
-2022-03-27 01:11:53,270 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 34 asset(s)]
-2022-03-27 01:11:53,838 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 33 asset(s)]
-2022-03-27 01:11:54,330 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 32 asset(s)]
-2022-03-27 01:11:54,789 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [11 of 31 asset(s)]
-2022-03-27 01:11:55,151 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 30 asset(s)]
-2022-03-27 01:11:55,523 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 29 asset(s)]
-2022-03-27 01:11:55,907 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 28 asset(s)]
-2022-03-27 01:11:56,362 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [19 of 27 asset(s)]
-2022-03-27 01:11:56,848 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [21 of 26 asset(s)]
-2022-03-27 01:11:57,209 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [23 of 25 asset(s)]
-2022-03-27 01:11:57,755 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [25 of 24 asset(s)]
-2022-03-27 01:11:58,266 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [27 of 23 asset(s)]
-2022-03-27 01:11:58,731 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [29 of 22 asset(s)]
-2022-03-27 01:11:59,295 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [31 of 21 asset(s)]
-2022-03-27 01:11:59,928 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [33 of 20 asset(s)]
-2022-03-27 01:12:00,501 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [35 of 19 asset(s)]
-2022-03-27 01:12:00,879 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [37 of 18 asset(s)]
-2022-03-27 01:12:42,653 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-27 01:13:33,639 - INFO: Connected to the Internet!
-2022-03-27 01:13:36,520 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:13:36,521 - INFO: Please wait...
-2022-03-27 01:13:50,163 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:13:50,315 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $52,315.07
-2022-03-27 01:13:51,432 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:13:52,178 - INFO: There are a total of 37 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:13:54,634 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 37 asset(s)]
-2022-03-27 01:13:55,817 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 37 asset(s)]
-2022-03-27 01:13:56,324 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 37 asset(s)]
-2022-03-27 01:13:56,732 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 37 asset(s)]
-2022-03-27 01:13:56,980 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 37 asset(s)]
-2022-03-27 01:13:57,322 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 37 asset(s)]
-2022-03-27 01:13:57,641 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 37 asset(s)]
-2022-03-27 01:13:57,941 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [8 of 37 asset(s)]
-2022-03-27 01:13:58,262 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 37 asset(s)]
-2022-03-27 01:13:58,576 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [10 of 37 asset(s)]
-2022-03-27 01:13:58,874 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [11 of 37 asset(s)]
-2022-03-27 01:13:59,171 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 37 asset(s)]
-2022-03-27 01:13:59,473 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 37 asset(s)]
-2022-03-27 01:13:59,924 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 37 asset(s)]
-2022-03-27 01:14:00,536 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 37 asset(s)]
-2022-03-27 01:14:00,880 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [16 of 37 asset(s)]
-2022-03-27 01:14:01,202 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 37 asset(s)]
-2022-03-27 01:14:01,540 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [18 of 37 asset(s)]
-2022-03-27 01:14:01,913 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [19 of 37 asset(s)]
-2022-03-27 01:14:02,248 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [20 of 37 asset(s)]
-2022-03-27 01:14:02,627 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [21 of 37 asset(s)]
-2022-03-27 01:14:02,962 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [22 of 37 asset(s)]
-2022-03-27 01:14:03,296 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [23 of 37 asset(s)]
-2022-03-27 01:14:03,665 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [24 of 37 asset(s)]
-2022-03-27 01:14:04,167 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [25 of 37 asset(s)]
-2022-03-27 01:14:04,503 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [26 of 37 asset(s)]
-2022-03-27 01:14:04,972 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [27 of 37 asset(s)]
-2022-03-27 01:14:05,316 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [28 of 37 asset(s)]
-2022-03-27 01:14:05,648 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [29 of 37 asset(s)]
-2022-03-27 01:14:05,984 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [30 of 37 asset(s)]
-2022-03-27 01:14:06,340 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [31 of 37 asset(s)]
-2022-03-27 01:14:06,813 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [32 of 37 asset(s)]
-2022-03-27 01:14:07,084 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [33 of 37 asset(s)]
-2022-03-27 01:14:07,459 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [34 of 37 asset(s)]
-2022-03-27 01:14:07,820 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [35 of 37 asset(s)]
-2022-03-27 01:14:08,180 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [36 of 37 asset(s)]
-2022-03-27 01:14:08,517 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [37 of 37 asset(s)]
-2022-03-27 01:14:08,518 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [37 of 37 asset(s)]
-2022-03-27 01:17:25,114 - INFO: Connected to the Internet!
-2022-03-27 01:17:28,237 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:17:28,237 - INFO: Please wait...
-2022-03-27 01:17:54,875 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:17:54,927 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $31,310.78
-2022-03-27 01:17:55,477 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:17:55,786 - INFO: There are a total of 37 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:17:56,421 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 36 asset(s)]
-2022-03-27 01:17:56,913 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 35 asset(s)]
-2022-03-27 01:17:57,308 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 34 asset(s)]
-2022-03-27 01:17:57,679 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 33 asset(s)]
-2022-03-27 01:17:58,046 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 32 asset(s)]
-2022-03-27 01:17:58,426 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [11 of 31 asset(s)]
-2022-03-27 01:17:58,756 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 30 asset(s)]
-2022-03-27 01:17:59,164 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 29 asset(s)]
-2022-03-27 01:17:59,440 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 28 asset(s)]
-2022-03-27 01:18:00,072 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [19 of 27 asset(s)]
-2022-03-27 01:18:00,635 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [21 of 26 asset(s)]
-2022-03-27 01:18:00,979 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [23 of 25 asset(s)]
-2022-03-27 01:18:01,503 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [25 of 24 asset(s)]
-2022-03-27 01:18:01,940 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [27 of 23 asset(s)]
-2022-03-27 01:18:02,281 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [29 of 22 asset(s)]
-2022-03-27 01:18:02,662 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [31 of 21 asset(s)]
-2022-03-27 01:18:02,956 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [33 of 20 asset(s)]
-2022-03-27 01:18:03,362 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [35 of 19 asset(s)]
-2022-03-27 01:18:03,712 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [37 of 18 asset(s)]
-2022-03-27 01:18:03,713 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [37 of 18 asset(s)]
-2022-03-27 01:34:09,589 - INFO: Connected to the Internet!
-2022-03-27 01:34:20,976 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:34:20,977 - INFO: Please wait...
-2022-03-27 01:34:38,260 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:34:38,331 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $86,566.44
-2022-03-27 01:34:39,317 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:34:40,256 - INFO: There are a total of 38 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:36:40,241 - INFO: Connected to the Internet!
-2022-03-27 01:36:49,154 - ERROR: Invalid wallet address!
-2022-03-27 01:36:53,144 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:36:53,146 - INFO: Please wait...
-2022-03-27 01:37:08,176 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:37:08,248 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $86,655.68
-2022-03-27 01:37:09,666 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:37:10,660 - INFO: There are a total of 38 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:37:12,201 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 37 asset(s)]
-2022-03-27 01:37:13,412 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 36 asset(s)]
-2022-03-27 01:37:13,787 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 35 asset(s)]
-2022-03-27 01:37:14,305 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 34 asset(s)]
-2022-03-27 01:37:14,776 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 33 asset(s)]
-2022-03-27 01:37:15,108 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [11 of 32 asset(s)]
-2022-03-27 01:37:15,512 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 31 asset(s)]
-2022-03-27 01:37:15,825 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 30 asset(s)]
-2022-03-27 01:37:16,161 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [17 of 29 asset(s)]
-2022-03-27 01:37:16,457 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [19 of 28 asset(s)]
-2022-03-27 01:37:16,756 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [21 of 27 asset(s)]
-2022-03-27 01:37:17,064 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [23 of 26 asset(s)]
-2022-03-27 01:37:17,385 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [25 of 25 asset(s)]
-2022-03-27 01:37:17,704 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [27 of 24 asset(s)]
-2022-03-27 01:37:18,029 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [29 of 23 asset(s)]
-2022-03-27 01:37:18,405 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [31 of 22 asset(s)]
-2022-03-27 01:37:18,851 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [33 of 21 asset(s)]
-2022-03-27 01:37:19,490 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [35 of 20 asset(s)]
-2022-03-27 01:37:19,836 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [37 of 19 asset(s)]
-2022-03-27 01:47:30,988 - INFO: Connected to the Internet!
-2022-03-27 01:47:47,209 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:47:47,209 - INFO: Please wait...
-2022-03-27 01:48:19,169 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:48:19,262 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $65,369.75
-2022-03-27 01:48:19,928 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:48:20,446 - INFO: There are a total of 38 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:48:21,322 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 37 asset(s)]
-2022-03-27 01:48:21,881 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 36 asset(s)]
-2022-03-27 01:48:22,434 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 35 asset(s)]
-2022-03-27 01:48:22,966 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 34 asset(s)]
-2022-03-27 01:48:23,293 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 33 asset(s)]
-2022-03-27 01:48:23,912 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 32 asset(s)]
-2022-03-27 01:48:24,239 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 31 asset(s)]
-2022-03-27 01:48:24,600 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [8 of 30 asset(s)]
-2022-03-27 01:48:24,992 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 29 asset(s)]
-2022-03-27 01:48:25,364 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 28 asset(s)]
-2022-03-27 01:48:25,762 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [11 of 27 asset(s)]
-2022-03-27 01:48:26,120 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 26 asset(s)]
-2022-03-27 01:48:26,528 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 25 asset(s)]
-2022-03-27 01:48:27,268 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 24 asset(s)]
-2022-03-27 01:48:27,644 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 23 asset(s)]
-2022-03-27 01:48:28,023 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [16 of 22 asset(s)]
-2022-03-27 01:48:28,319 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 21 asset(s)]
-2022-03-27 01:48:28,734 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [18 of 20 asset(s)]
-2022-03-27 01:48:29,092 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [19 of 19 asset(s)]
-2022-03-27 01:48:30,100 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [20 of 18 asset(s)]
-2022-03-27 01:48:30,491 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [21 of 17 asset(s)]
-2022-03-27 01:48:30,974 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [22 of 16 asset(s)]
-2022-03-27 01:48:31,349 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [23 of 15 asset(s)]
-2022-03-27 01:48:31,774 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [24 of 14 asset(s)]
-2022-03-27 01:48:32,180 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [25 of 13 asset(s)]
-2022-03-27 01:48:32,908 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [26 of 12 asset(s)]
-2022-03-27 01:48:33,291 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [27 of 11 asset(s)]
-2022-03-27 01:48:33,720 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [28 of 10 asset(s)]
-2022-03-27 01:48:34,140 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [29 of 9 asset(s)]
-2022-03-27 01:48:34,876 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [30 of 8 asset(s)]
-2022-03-27 01:48:35,389 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [31 of 7 asset(s)]
-2022-03-27 01:48:35,767 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [32 of 6 asset(s)]
-2022-03-27 01:48:36,171 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [33 of 5 asset(s)]
-2022-03-27 01:48:36,489 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [34 of 4 asset(s)]
-2022-03-27 01:48:36,919 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [35 of 3 asset(s)]
-2022-03-27 01:48:37,539 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [36 of 2 asset(s)]
-2022-03-27 01:48:37,930 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [37 of 1 asset(s)]
-2022-03-27 01:48:38,366 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [38 of 0 asset(s)]
-2022-03-27 01:50:34,446 - INFO: Connected to the Internet!
-2022-03-27 01:50:43,846 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:50:43,846 - INFO: Please wait...
-2022-03-27 01:51:10,204 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:51:10,260 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $65,539.18
-2022-03-27 01:51:10,803 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:51:11,127 - INFO: There are a total of 38 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:51:11,773 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 37 asset(s)]
-2022-03-27 01:51:12,353 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 36 asset(s)]
-2022-03-27 01:51:12,916 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 35 asset(s)]
-2022-03-27 01:51:13,469 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 34 asset(s)]
-2022-03-27 01:51:13,827 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 33 asset(s)]
-2022-03-27 01:51:14,559 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 32 asset(s)]
-2022-03-27 01:51:14,933 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 31 asset(s)]
-2022-03-27 01:51:15,464 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [8 of 30 asset(s)]
-2022-03-27 01:51:15,865 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [9 of 29 asset(s)]
-2022-03-27 01:51:16,348 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 28 asset(s)]
-2022-03-27 01:51:16,810 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [11 of 27 asset(s)]
-2022-03-27 01:51:17,124 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 26 asset(s)]
-2022-03-27 01:51:17,480 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 25 asset(s)]
-2022-03-27 01:51:17,850 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 24 asset(s)]
-2022-03-27 01:51:18,205 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 23 asset(s)]
-2022-03-27 01:51:18,549 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [16 of 22 asset(s)]
-2022-03-27 01:51:18,899 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 21 asset(s)]
-2022-03-27 01:51:19,630 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [18 of 20 asset(s)]
-2022-03-27 01:51:19,987 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [19 of 19 asset(s)]
-2022-03-27 01:51:20,391 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [20 of 18 asset(s)]
-2022-03-27 01:51:20,765 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [21 of 17 asset(s)]
-2022-03-27 01:51:21,316 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [22 of 16 asset(s)]
-2022-03-27 01:51:21,676 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [23 of 15 asset(s)]
-2022-03-27 01:51:22,035 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [24 of 14 asset(s)]
-2022-03-27 01:51:22,420 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [25 of 13 asset(s)]
-2022-03-27 01:51:23,109 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [26 of 12 asset(s)]
-2022-03-27 01:51:23,509 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [27 of 11 asset(s)]
-2022-03-27 01:51:23,914 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [28 of 10 asset(s)]
-2022-03-27 01:51:24,322 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [29 of 9 asset(s)]
-2022-03-27 01:51:24,672 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [30 of 8 asset(s)]
-2022-03-27 01:51:25,068 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [31 of 7 asset(s)]
-2022-03-27 01:51:25,671 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [32 of 6 asset(s)]
-2022-03-27 01:51:26,167 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [33 of 5 asset(s)]
-2022-03-27 01:51:26,497 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [34 of 4 asset(s)]
-2022-03-27 01:51:26,863 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [35 of 3 asset(s)]
-2022-03-27 01:51:27,239 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [36 of 2 asset(s)]
-2022-03-27 01:51:27,599 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [37 of 1 asset(s)]
-2022-03-27 01:51:27,967 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [38 of 0 asset(s)]
-2022-03-27 01:51:27,968 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [38 of 0 asset(s)]
-2022-03-27 01:51:36,170 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-27 01:53:31,247 - INFO: Connected to the Internet!
-2022-03-27 01:53:40,302 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:53:40,303 - INFO: Please wait...
-2022-03-27 01:54:05,529 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 01:54:05,609 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $65,678.67
-2022-03-27 01:54:06,282 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:54:06,651 - INFO: There are a total of 38 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 01:54:07,303 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 37 asset(s)]
-2022-03-27 01:54:07,797 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 36 asset(s)]
-2022-03-27 01:54:08,446 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 35 asset(s)]
-2022-03-27 01:54:08,952 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 34 asset(s)]
-2022-03-27 01:54:09,278 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 33 asset(s)]
-2022-03-27 01:54:09,666 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 32 asset(s)]
-2022-03-27 01:54:10,115 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 31 asset(s)]
-2022-03-27 01:54:48,382 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 30 asset(s)]
-2022-03-27 01:54:48,762 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 29 asset(s)]
-2022-03-27 01:54:49,163 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [11 of 28 asset(s)]
-2022-03-27 01:54:49,525 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 27 asset(s)]
-2022-03-27 01:54:49,990 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 26 asset(s)]
-2022-03-27 01:54:50,454 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 25 asset(s)]
-2022-03-27 01:54:50,827 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 24 asset(s)]
-2022-03-27 01:54:51,176 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [16 of 23 asset(s)]
-2022-03-27 01:54:51,492 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 22 asset(s)]
-2022-03-27 01:54:51,894 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [18 of 21 asset(s)]
-2022-03-27 01:54:52,372 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [19 of 20 asset(s)]
-2022-03-27 01:54:52,750 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [20 of 19 asset(s)]
-2022-03-27 01:54:53,110 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [21 of 18 asset(s)]
-2022-03-27 01:54:53,611 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [22 of 17 asset(s)]
-2022-03-27 01:54:54,006 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [23 of 16 asset(s)]
-2022-03-27 01:54:54,387 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [24 of 15 asset(s)]
-2022-03-27 01:54:54,888 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [25 of 14 asset(s)]
-2022-03-27 01:54:55,440 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [26 of 13 asset(s)]
-2022-03-27 01:54:55,780 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [27 of 12 asset(s)]
-2022-03-27 01:54:56,142 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [28 of 11 asset(s)]
-2022-03-27 01:54:56,511 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [29 of 10 asset(s)]
-2022-03-27 01:54:56,874 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [30 of 9 asset(s)]
-2022-03-27 01:54:57,236 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [31 of 8 asset(s)]
-2022-03-27 01:54:57,761 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [32 of 7 asset(s)]
-2022-03-27 01:54:58,473 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [33 of 6 asset(s)]
-2022-03-27 01:54:58,811 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [34 of 5 asset(s)]
-2022-03-27 01:54:59,187 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [35 of 4 asset(s)]
-2022-03-27 01:54:59,573 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [36 of 3 asset(s)]
-2022-03-27 01:54:59,924 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [37 of 2 asset(s)]
-2022-03-27 01:55:00,307 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [38 of 1 asset(s)]
-2022-03-27 01:59:27,683 - INFO: Connected to the Internet!
-2022-03-27 01:59:36,869 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 01:59:36,870 - INFO: Please wait...
-2022-03-27 02:00:13,054 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 02:00:13,103 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $31,617.99
-2022-03-27 02:00:13,706 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:00:14,075 - INFO: There are a total of 39 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 02:00:14,870 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 39 asset(s)]
-2022-03-27 02:00:15,377 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 39 asset(s)]
-2022-03-27 02:00:15,828 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 39 asset(s)]
-2022-03-27 02:00:16,340 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 39 asset(s)]
-2022-03-27 02:00:16,816 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 39 asset(s)]
-2022-03-27 02:00:17,267 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 39 asset(s)]
-2022-03-27 02:00:49,369 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [8 of 39 asset(s)]
-2022-03-27 02:00:51,310 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 39 asset(s)]
-2022-03-27 02:00:52,255 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 39 asset(s)]
-2022-03-27 02:00:53,370 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [11 of 39 asset(s)]
-2022-03-27 02:00:54,107 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 39 asset(s)]
-2022-03-27 02:00:54,601 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 39 asset(s)]
-2022-03-27 02:00:54,983 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 39 asset(s)]
-2022-03-27 02:00:55,299 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 39 asset(s)]
-2022-03-27 02:00:55,621 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [16 of 39 asset(s)]
-2022-03-27 02:00:56,017 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 39 asset(s)]
-2022-03-27 02:00:56,377 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [18 of 39 asset(s)]
-2022-03-27 02:00:56,699 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [19 of 39 asset(s)]
-2022-03-27 02:00:57,047 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CROCOCOIN extracted - [20 of 39 asset(s)]
-2022-03-27 02:00:57,375 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [21 of 39 asset(s)]
-2022-03-27 02:00:57,670 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [22 of 39 asset(s)]
-2022-03-27 02:00:58,134 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [23 of 39 asset(s)]
-2022-03-27 02:00:58,446 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [24 of 39 asset(s)]
-2022-03-27 02:00:58,747 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [25 of 39 asset(s)]
-2022-03-27 02:00:59,176 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [26 of 39 asset(s)]
-2022-03-27 02:00:59,872 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [27 of 39 asset(s)]
-2022-03-27 02:01:00,248 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [28 of 39 asset(s)]
-2022-03-27 02:01:00,618 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [29 of 39 asset(s)]
-2022-03-27 02:01:01,085 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [30 of 39 asset(s)]
-2022-03-27 02:01:01,440 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [31 of 39 asset(s)]
-2022-03-27 02:01:01,811 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [32 of 39 asset(s)]
-2022-03-27 02:01:02,170 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [33 of 39 asset(s)]
-2022-03-27 02:01:02,631 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [34 of 39 asset(s)]
-2022-03-27 02:01:02,962 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [35 of 39 asset(s)]
-2022-03-27 02:01:03,441 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [36 of 39 asset(s)]
-2022-03-27 02:01:03,794 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [37 of 39 asset(s)]
-2022-03-27 02:01:04,140 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [38 of 39 asset(s)]
-2022-03-27 02:01:04,489 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [39 of 39 asset(s)]
-2022-03-27 02:04:24,574 - INFO: Connected to the Internet!
-2022-03-27 02:04:31,468 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:04:31,469 - INFO: Please wait...
-2022-03-27 02:05:01,607 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 02:05:01,843 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $65,781.8
-2022-03-27 02:05:02,512 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:05:02,914 - INFO: There are a total of 39 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 02:05:03,691 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 39 asset(s)]
-2022-03-27 02:05:04,220 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 39 asset(s)]
-2022-03-27 02:05:04,814 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 39 asset(s)]
-2022-03-27 02:05:05,410 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 39 asset(s)]
-2022-03-27 02:05:05,945 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 39 asset(s)]
-2022-03-27 02:05:06,409 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 39 asset(s)]
-2022-03-27 02:05:06,773 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 39 asset(s)]
-2022-03-27 02:05:29,077 - INFO: Connected to the Internet!
-2022-03-27 02:05:33,261 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:05:33,262 - INFO: Please wait...
-2022-03-27 02:06:05,603 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 02:06:05,657 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $31,517.92
-2022-03-27 02:06:06,334 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:06:06,732 - INFO: There are a total of 39 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 02:06:07,463 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 39 asset(s)]
-2022-03-27 02:06:08,041 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 39 asset(s)]
-2022-03-27 02:06:08,566 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 39 asset(s)]
-2022-03-27 02:06:09,054 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 39 asset(s)]
-2022-03-27 02:12:28,123 - INFO: Connected to the Internet!
-2022-03-27 02:12:49,400 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:12:49,413 - INFO: Please wait...
-2022-03-27 02:16:09,914 - INFO: Connected to the Internet!
-2022-03-27 02:16:28,287 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:16:28,288 - INFO: Please wait...
-2022-03-27 02:16:58,622 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 02:16:58,677 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $31,683
-2022-03-27 02:16:59,264 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:16:59,611 - INFO: There are a total of 39 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 02:17:00,260 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 39 asset(s)]
-2022-03-27 02:17:00,730 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 39 asset(s)]
-2022-03-27 02:17:01,236 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 39 asset(s)]
-2022-03-27 02:17:57,425 - INFO: Connected to the Internet!
-2022-03-27 02:18:00,693 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:18:00,694 - INFO: Please wait...
-2022-03-27 02:18:33,437 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 02:18:33,487 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $31,737.06
-2022-03-27 02:18:34,095 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:18:34,455 - INFO: There are a total of 39 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 02:18:35,129 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 39 asset(s)]
-2022-03-27 02:18:35,620 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 39 asset(s)]
-2022-03-27 02:18:36,182 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 39 asset(s)]
-2022-03-27 02:18:36,676 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 39 asset(s)]
-2022-03-27 02:18:37,000 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 39 asset(s)]
-2022-03-27 02:18:56,615 - CRITICAL: No active internet connection!
-2022-03-27 02:19:35,178 - INFO: Connected to the Internet!
-2022-03-27 02:19:52,004 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:19:52,005 - INFO: Please wait...
-2022-03-27 02:20:24,076 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 02:20:24,136 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $65,967.73
-2022-03-27 02:20:24,804 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:20:25,226 - INFO: There are a total of 39 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 02:20:25,959 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 39 asset(s)]
-2022-03-27 02:20:26,447 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 39 asset(s)]
-2022-03-27 02:20:26,928 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 39 asset(s)]
-2022-03-27 02:20:27,451 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 39 asset(s)]
-2022-03-27 02:20:27,777 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 39 asset(s)]
-2022-03-27 02:20:57,395 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 39 asset(s)]
-2022-03-27 02:20:58,055 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [8 of 39 asset(s)]
-2022-03-27 02:20:58,403 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [9 of 39 asset(s)]
-2022-03-27 02:20:58,899 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 39 asset(s)]
-2022-03-27 02:20:59,362 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [11 of 39 asset(s)]
-2022-03-27 02:20:59,864 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 39 asset(s)]
-2022-03-27 02:21:00,497 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 39 asset(s)]
-2022-03-27 02:21:01,159 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [14 of 39 asset(s)]
-2022-03-27 02:21:01,971 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [15 of 39 asset(s)]
-2022-03-27 02:21:03,843 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [16 of 39 asset(s)]
-2022-03-27 02:21:04,665 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [17 of 39 asset(s)]
-2022-03-27 02:21:05,282 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [18 of 39 asset(s)]
-2022-03-27 02:21:06,130 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [19 of 39 asset(s)]
-2022-03-27 02:21:06,600 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CROCOCOIN extracted - [20 of 39 asset(s)]
-2022-03-27 02:21:07,104 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [21 of 39 asset(s)]
-2022-03-27 02:21:07,454 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [22 of 39 asset(s)]
-2022-03-27 02:21:07,802 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [23 of 39 asset(s)]
-2022-03-27 02:21:08,403 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [24 of 39 asset(s)]
-2022-03-27 02:21:08,756 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [25 of 39 asset(s)]
-2022-03-27 02:21:09,227 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [26 of 39 asset(s)]
-2022-03-27 02:21:09,754 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [27 of 39 asset(s)]
-2022-03-27 02:21:10,100 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [28 of 39 asset(s)]
-2022-03-27 02:21:10,480 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [29 of 39 asset(s)]
-2022-03-27 02:21:10,861 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [30 of 39 asset(s)]
-2022-03-27 02:21:11,205 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [31 of 39 asset(s)]
-2022-03-27 02:21:11,574 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [32 of 39 asset(s)]
-2022-03-27 02:21:11,955 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [33 of 39 asset(s)]
-2022-03-27 02:21:12,537 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [34 of 39 asset(s)]
-2022-03-27 02:21:12,819 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [35 of 39 asset(s)]
-2022-03-27 02:21:13,220 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [36 of 39 asset(s)]
-2022-03-27 02:21:13,604 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [37 of 39 asset(s)]
-2022-03-27 02:21:13,972 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [38 of 39 asset(s)]
-2022-03-27 02:21:14,359 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [39 of 39 asset(s)]
-2022-03-27 02:21:15,146 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 39 asset(s)]
-2022-03-27 02:21:15,148 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [6 of 39 asset(s)]
-2022-03-27 02:27:49,828 - INFO: Connected to the Internet!
-2022-03-27 02:27:58,665 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:27:58,666 - INFO: Please wait...
-2022-03-27 02:28:34,057 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 02:28:34,122 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $87,147.88
-2022-03-27 02:28:34,668 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:28:35,156 - INFO: There are a total of 39 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 02:28:35,886 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 39 asset(s)]
-2022-03-27 02:28:36,724 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 39 asset(s)]
-2022-03-27 02:28:37,192 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 39 asset(s)]
-2022-03-27 02:28:37,679 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 39 asset(s)]
-2022-03-27 02:28:37,991 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 39 asset(s)]
-2022-03-27 02:28:38,359 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 39 asset(s)]
-2022-03-27 02:28:38,715 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 39 asset(s)]
-2022-03-27 02:28:39,084 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [8 of 39 asset(s)]
-2022-03-27 02:28:39,443 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [9 of 39 asset(s)]
-2022-03-27 02:28:39,979 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 39 asset(s)]
-2022-03-27 02:28:40,469 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [11 of 39 asset(s)]
-2022-03-27 02:28:40,837 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [12 of 39 asset(s)]
-2022-03-27 02:28:41,201 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 39 asset(s)]
-2022-03-27 02:29:22,041 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [14 of 39 asset(s)]
-2022-03-27 02:29:22,441 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [15 of 39 asset(s)]
-2022-03-27 02:29:22,814 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [16 of 39 asset(s)]
-2022-03-27 02:29:23,383 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [17 of 39 asset(s)]
-2022-03-27 02:29:23,951 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [18 of 39 asset(s)]
-2022-03-27 02:29:24,428 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CROCOCOIN extracted - [19 of 39 asset(s)]
-2022-03-27 02:29:24,883 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [20 of 39 asset(s)]
-2022-03-27 02:29:25,248 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [21 of 39 asset(s)]
-2022-03-27 02:30:13,539 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [22 of 39 asset(s)]
-2022-03-27 02:30:14,050 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [23 of 39 asset(s)]
-2022-03-27 02:30:14,557 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [24 of 39 asset(s)]
-2022-03-27 02:30:15,139 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [25 of 39 asset(s)]
-2022-03-27 02:30:16,262 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [26 of 39 asset(s)]
-2022-03-27 02:30:16,882 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [27 of 39 asset(s)]
-2022-03-27 02:30:17,551 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [28 of 39 asset(s)]
-2022-03-27 02:30:18,191 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [29 of 39 asset(s)]
-2022-03-27 02:30:18,952 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [30 of 39 asset(s)]
-2022-03-27 02:30:19,677 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [31 of 39 asset(s)]
-2022-03-27 02:30:20,262 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [32 of 39 asset(s)]
-2022-03-27 02:30:20,590 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [33 of 39 asset(s)]
-2022-03-27 02:30:21,000 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [34 of 39 asset(s)]
-2022-03-27 02:30:21,510 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [35 of 39 asset(s)]
-2022-03-27 02:30:22,019 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [36 of 39 asset(s)]
-2022-03-27 02:30:22,389 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [37 of 39 asset(s)]
-2022-03-27 02:30:22,727 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [38 of 39 asset(s)]
-2022-03-27 02:30:23,095 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [39 of 39 asset(s)]
-2022-03-27 02:30:23,096 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [39 of 39 asset(s)]
-2022-03-27 02:31:46,314 - INFO: Connected to the Internet!
-2022-03-27 02:31:57,806 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:31:57,806 - INFO: Please wait...
-2022-03-27 02:32:17,830 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 02:32:17,955 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $86,955.11
-2022-03-27 02:32:18,881 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 02:32:19,310 - INFO: There are a total of 39 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
-2022-03-27 02:32:21,571 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 39 asset(s)]
-2022-03-27 02:32:22,476 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 39 asset(s)]
-2022-03-27 02:32:23,107 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 39 asset(s)]
-2022-03-27 02:32:23,722 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 39 asset(s)]
-2022-03-27 02:32:24,051 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 39 asset(s)]
-2022-03-27 02:32:24,937 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 39 asset(s)]
-2022-03-27 02:32:25,838 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 39 asset(s)]
-2022-03-27 02:32:53,549 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [8 of 39 asset(s)]
-2022-03-27 02:32:54,764 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [9 of 39 asset(s)]
-2022-03-27 02:32:55,505 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [10 of 39 asset(s)]
-2022-03-27 02:32:56,507 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [11 of 39 asset(s)]
-2022-03-27 02:32:57,617 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [12 of 39 asset(s)]
-2022-03-27 02:32:58,180 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [13 of 39 asset(s)]
-2022-03-27 02:32:58,616 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [14 of 39 asset(s)]
-2022-03-27 02:32:59,156 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [15 of 39 asset(s)]
-2022-03-27 02:32:59,520 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [16 of 39 asset(s)]
-2022-03-27 02:32:59,980 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [17 of 39 asset(s)]
-2022-03-27 02:33:00,338 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [18 of 39 asset(s)]
-2022-03-27 02:33:00,716 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CROCOCOIN extracted - [19 of 39 asset(s)]
-2022-03-27 02:33:01,365 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [20 of 39 asset(s)]
-2022-03-27 02:33:01,702 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [21 of 39 asset(s)]
-2022-03-27 02:33:02,054 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [22 of 39 asset(s)]
-2022-03-27 02:33:02,624 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [23 of 39 asset(s)]
-2022-03-27 02:33:02,986 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [24 of 39 asset(s)]
-2022-03-27 02:33:03,411 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [25 of 39 asset(s)]
-2022-03-27 02:33:04,241 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [26 of 39 asset(s)]
-2022-03-27 02:33:04,564 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [27 of 39 asset(s)]
-2022-03-27 02:33:04,947 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [28 of 39 asset(s)]
-2022-03-27 02:33:05,570 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [29 of 39 asset(s)]
-2022-03-27 02:33:05,917 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [30 of 39 asset(s)]
-2022-03-27 02:33:06,301 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [31 of 39 asset(s)]
-2022-03-27 02:33:06,800 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [32 of 39 asset(s)]
-2022-03-27 02:33:07,263 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [33 of 39 asset(s)]
-2022-03-27 02:33:07,606 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [34 of 39 asset(s)]
-2022-03-27 02:33:07,983 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [35 of 39 asset(s)]
-2022-03-27 02:33:08,431 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [36 of 39 asset(s)]
-2022-03-27 02:33:08,782 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [37 of 39 asset(s)]
-2022-03-27 02:33:09,244 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [38 of 39 asset(s)]
-2022-03-27 02:33:09,607 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [39 of 39 asset(s)]
-2022-03-27 02:33:09,608 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [39 of 39 asset(s)]
-2022-03-27 02:33:13,994 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
-2022-03-27 02:41:21,283 - INFO: Connected to the Internet!
-2022-03-27 02:41:23,686 - INFO: Checking for the existence of Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-27 02:41:23,701 - INFO: Please wait...
-2022-03-27 02:42:00,884 - INFO: Wallet address: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 exist!
-2022-03-27 02:42:01,016 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 is worth around $79,891.62
-2022-03-27 02:42:09,390 - INFO: Trying to extract details of all asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-27 02:42:20,314 - INFO: There are a total of 362 asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9, this might take longer time to be completed...
+2022-04-14 12:39:18,708 - INFO: Connected to the Internet!
+2022-04-14 12:39:36,327 - INFO: Checking for the existence of Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40...
+2022-04-14 12:39:36,328 - INFO: Please wait...
+2022-04-14 12:40:24,575 - INFO: Wallet address: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 exist!
+2022-04-14 12:40:26,837 - INFO: Trying to extract details of all asset(s) in 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40...
+2022-04-14 12:40:27,482 - INFO: There are a total of 30 asset(s) in 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40!
 You can press 'CTRL C' to PAUSE the extraction process!
-2022-03-27 02:42:52,187 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - FF18.io extracted - [1 of 362 asset(s)]
-2022-03-27 02:43:28,469 - INFO: Connected to the Internet!
-2022-03-27 02:43:36,146 - INFO: Checking for the existence of Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-27 02:43:36,147 - INFO: Please wait...
-2022-03-27 02:44:10,421 - INFO: Wallet address: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 exist!
-2022-03-27 02:44:10,531 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 is worth around $79,883.38
-2022-03-27 02:44:19,221 - INFO: Trying to extract details of all asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9...
-2022-03-27 02:44:29,503 - INFO: There are a total of 362 asset(s) in 0x896ea55f8728d46354df5abb0c6d08d577d324c9, this might take longer time to be completed...
+2022-04-14 12:40:30,957 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - BestAir.io extracted - [1 of 30 asset(s)]
+2022-04-14 12:40:32,432 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - Zepe.io extracted - [2 of 30 asset(s)]
+2022-04-14 12:40:32,968 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - PDot.io extracted - [3 of 30 asset(s)]
+2022-04-14 12:40:34,694 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - bStake.net extracted - [4 of 30 asset(s)]
+2022-04-14 12:40:36,259 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - MMdex.io extracted - [5 of 30 asset(s)]
+2022-04-14 12:40:36,822 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - Everdome extracted - [6 of 30 asset(s)]
+2022-04-14 12:40:37,326 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - AgileSwap.io extracted - [7 of 30 asset(s)]
+2022-04-14 12:40:38,091 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - BGGB.org extracted - [8 of 30 asset(s)]
+2022-04-14 12:40:39,357 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - APE8.io extracted - [9 of 30 asset(s)]
+2022-04-14 12:40:39,742 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - DragonBallsToken extracted - [10 of 30 asset(s)]
+2022-04-14 12:40:40,135 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - OrbitDefi.org extracted - [11 of 30 asset(s)]
+2022-04-14 12:40:40,692 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - MyGetRichToken extracted - [12 of 30 asset(s)]
+2022-04-14 12:40:41,232 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - XM6.io extracted - [13 of 30 asset(s)]
+2022-04-14 12:40:41,506 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - AZSwap.io extracted - [14 of 30 asset(s)]
+2022-04-14 12:40:41,874 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - 0Army.io extracted - [15 of 30 asset(s)]
+2022-04-14 12:40:42,313 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - AkkSwap.io extracted - [16 of 30 asset(s)]
+2022-04-14 12:40:43,364 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - BeeToken extracted - [17 of 30 asset(s)]
+2022-04-14 12:40:44,031 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - CryptoInu extracted - [18 of 30 asset(s)]
+2022-04-14 12:40:44,690 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - 0ceanCoin.io extracted - [19 of 30 asset(s)]
+2022-04-14 12:40:45,296 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - GRCC extracted - [20 of 30 asset(s)]
+2022-04-14 12:40:45,723 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - BNB extracted - [21 of 30 asset(s)]
+2022-04-14 12:40:47,330 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - Metahero extracted - [22 of 30 asset(s)]
+2022-04-14 12:40:48,593 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - Everdome extracted - [23 of 30 asset(s)]
+2022-04-14 12:40:49,182 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - rocketboys.io extracted - [24 of 30 asset(s)]
+2022-04-14 12:40:49,580 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - Milkyswap.io extracted - [25 of 30 asset(s)]
+2022-04-14 12:40:50,366 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - BusdSwap.io extracted - [26 of 30 asset(s)]
+2022-04-14 12:40:51,266 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - XRPToken extracted - [27 of 30 asset(s)]
+2022-04-14 12:40:51,761 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - MiniDoge.io extracted - [28 of 30 asset(s)]
+2022-04-14 12:40:52,388 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - KAINET extracted - [29 of 30 asset(s)]
+2022-04-14 12:40:53,365 - INFO: Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 - CatBoy extracted - [30 of 30 asset(s)]
+2022-04-14 12:40:53,366 - INFO: Extraction from Wallet: 0xb8758abcf73e8c485d26aea873f9ab0c780a4f40 completed. Extracted [30 of 30 asset(s)]
+2022-04-14 12:40:58,333 - INFO: Data saved as: 'Wallet Result.csv' in 'Results' directory!
+2022-04-14 14:44:28,143 - INFO: Connected to the Internet!
+2022-04-14 14:44:34,542 - INFO: Checking for the existence of Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc...
+2022-04-14 14:44:34,543 - INFO: Please wait...
+2022-04-14 14:45:25,344 - INFO: Wallet address: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc exist!
+2022-04-14 14:45:29,351 - INFO: Trying to extract details of all asset(s) in 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc...
+2022-04-14 14:45:32,445 - INFO: There are a total of 128 asset(s) in 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc, this might take longer time to be completed...
 You can press 'CTRL C' to PAUSE the extraction process!
-2022-03-27 02:45:02,282 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - FF18.io extracted - [1 of 362 asset(s)]
-2022-03-27 02:45:40,334 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - KK8.io extracted - [2 of 362 asset(s)]
-2022-03-27 02:46:18,111 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - 1Gas.org extracted - [3 of 362 asset(s)]
-2022-03-27 02:47:02,943 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - PDot.io extracted - [4 of 362 asset(s)]
-2022-03-27 02:47:36,700 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - PowNFT.net extracted - [5 of 362 asset(s)]
-2022-03-27 02:48:22,268 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - Def8.io extracted - [6 of 362 asset(s)]
-2022-03-27 02:49:22,407 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - bStake.net extracted - [7 of 362 asset(s)]
-2022-03-27 02:50:08,604 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - 1Farm.io extracted - [8 of 362 asset(s)]
-2022-03-27 02:51:03,574 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - Catcoin extracted - [9 of 362 asset(s)]
-2022-03-27 02:51:55,245 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - MMdex.io extracted - [10 of 362 asset(s)]
-2022-03-27 02:52:50,578 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - 0Army.io extracted - [11 of 362 asset(s)]
-2022-03-27 02:53:56,661 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - MoonWay extracted - [12 of 362 asset(s)]
-2022-03-27 02:54:50,489 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - APE8.io extracted - [13 of 362 asset(s)]
-2022-03-27 02:55:52,044 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - CatBoy extracted - [14 of 362 asset(s)]
-2022-03-27 02:56:31,686 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - UkraineGovernanceToken extracted - [15 of 362 asset(s)]
-2022-03-27 02:57:25,081 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - SmartProtocol extracted - [16 of 362 asset(s)]
-2022-03-27 02:58:14,458 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - MyGetRichToken extracted - [17 of 362 asset(s)]
-2022-03-27 02:59:17,003 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - Gambling-Crypto.games extracted - [18 of 362 asset(s)]
-2022-03-27 03:00:14,384 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - BerylBit extracted - [19 of 362 asset(s)]
-2022-03-27 03:01:18,478 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - ShibaVerse extracted - [20 of 362 asset(s)]
-2022-03-27 03:01:47,510 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - BUSD extracted - [21 of 362 asset(s)]
-2022-03-27 03:02:28,097 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - DragonBallsToken extracted - [22 of 362 asset(s)]
-2022-03-27 03:02:57,528 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - ROGC extracted - [23 of 362 asset(s)]
-2022-03-27 03:03:34,375 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - OrbitDefi.org extracted - [24 of 362 asset(s)]
-2022-03-27 03:04:03,183 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - AndromedaV2 extracted - [25 of 362 asset(s)]
-2022-03-27 03:04:43,546 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - BGGB.org extracted - [26 of 362 asset(s)]
-2022-03-27 03:05:15,590 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - MyGetRichToken extracted - [27 of 362 asset(s)]
-2022-03-27 03:05:50,370 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - WorkQuestToken extracted - [28 of 362 asset(s)]
-2022-03-27 03:06:28,200 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - CoinWinMarket extracted - [29 of 362 asset(s)]
-2022-03-27 03:07:14,911 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - LemonSwap extracted - [30 of 362 asset(s)]
-2022-03-27 03:07:46,036 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - FlamingoCoin extracted - [31 of 362 asset(s)]
-2022-03-27 03:08:20,348 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - REDPLANETMARTIAN extracted - [32 of 362 asset(s)]
-2022-03-27 03:08:58,439 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - NinjaBoy extracted - [33 of 362 asset(s)]
-2022-03-27 03:09:35,968 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - Meowthcoin extracted - [34 of 362 asset(s)]
-2022-03-27 03:10:15,592 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - EonHero extracted - [35 of 362 asset(s)]
-2022-03-27 03:10:47,864 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - CatYachtClub extracted - [36 of 362 asset(s)]
-2022-03-27 03:11:24,219 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - MarsDoge extracted - [37 of 362 asset(s)]
-2022-03-27 03:11:58,840 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - Birdcoin extracted - [38 of 362 asset(s)]
-2022-03-27 03:12:38,310 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - Gilgagon extracted - [39 of 362 asset(s)]
-2022-03-27 03:13:04,599 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - BNB extracted - [40 of 362 asset(s)]
-2022-03-27 03:13:40,854 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - swap8.io extracted - [41 of 362 asset(s)]
-2022-03-27 06:14:44,165 - INFO: Wallet: 0x896ea55f8728d46354df5abb0c6d08d577d324c9 - CatoshiCoin extracted - [42 of 362 asset(s)]
-2022-03-27 06:39:24,491 - INFO: Connected to the Internet!
-2022-03-27 06:39:28,530 - INFO: Checking for the existence of Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 06:39:28,531 - INFO: Please wait...
-2022-03-27 06:39:57,330 - INFO: Wallet address: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc exist!
-2022-03-27 06:39:57,420 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc is worth around $86,168.02
-2022-03-27 06:39:58,051 - INFO: Trying to extract details of all asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc...
-2022-03-27 06:39:58,433 - INFO: There are a total of 41 asset(s) in 0xcf9b378f6f9b3c2118842200d56b54524002a5fc!
+2022-04-14 14:46:16,426 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - ApeCoin.com.de extracted - [1 of 128 asset(s)]
+2022-04-14 14:46:41,544 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - AA8.io extracted - [2 of 128 asset(s)]
+2022-04-14 14:46:54,076 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - bStake.net extracted - [3 of 128 asset(s)]
+2022-04-14 14:47:03,494 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - AgileSwap.io extracted - [4 of 128 asset(s)]
+2022-04-14 14:47:13,521 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MarvinInu extracted - [5 of 128 asset(s)]
+2022-04-14 14:47:17,706 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BNB extracted - [6 of 128 asset(s)]
+2022-04-14 14:47:21,845 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BGGB.org extracted - [7 of 128 asset(s)]
+2022-04-14 14:47:27,273 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - APE8.io extracted - [8 of 128 asset(s)]
+2022-04-14 14:48:14,030 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - PETAVERSE extracted - [9 of 128 asset(s)]
+2022-04-14 14:49:03,643 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - UkraineGovernanceToken extracted - [10 of 128 asset(s)]
+2022-04-14 14:49:55,954 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Elon'sCurrency extracted - [11 of 128 asset(s)]
+2022-04-14 14:50:52,803 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - CatBoy extracted - [12 of 128 asset(s)]
+2022-04-14 14:51:50,737 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MyGetRichToken extracted - [13 of 128 asset(s)]
+2022-04-14 14:53:26,810 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Flokimon extracted - [14 of 128 asset(s)]
+2022-04-14 14:54:09,941 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - CatYachtClubV2 extracted - [15 of 128 asset(s)]
+2022-04-14 14:55:05,624 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - ShibaVerse extracted - [16 of 128 asset(s)]
+2022-04-14 14:56:02,852 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - DragonBallsToken extracted - [17 of 128 asset(s)]
+2022-04-14 14:56:37,475 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - DogCoin extracted - [18 of 128 asset(s)]
+2022-04-14 14:56:57,176 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - OrbitDefi.org extracted - [19 of 128 asset(s)]
+2022-04-14 14:57:34,449 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BomberBabes extracted - [20 of 128 asset(s)]
+2022-04-14 14:58:38,611 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - 888Crypto.io extracted - [21 of 128 asset(s)]
+2022-04-14 14:58:50,162 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BGGB.org extracted - [22 of 128 asset(s)]
+2022-04-14 14:59:01,291 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MyGetRichToken extracted - [23 of 128 asset(s)]
+2022-04-14 14:59:15,257 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - XM6.io extracted - [24 of 128 asset(s)]
+2022-04-14 14:59:53,882 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BUSD extracted - [25 of 128 asset(s)]
+2022-04-14 15:00:29,291 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BUSDT extracted - [26 of 128 asset(s)]
+2022-04-14 15:00:40,637 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Eterna extracted - [27 of 128 asset(s)]
+2022-04-14 15:01:16,088 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MiloInu extracted - [28 of 128 asset(s)]
+2022-04-14 15:01:39,937 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Safuu extracted - [29 of 128 asset(s)]
+2022-04-14 15:01:54,355 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - SBER extracted - [30 of 128 asset(s)]
+2022-04-14 15:02:06,957 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - OK extracted - [31 of 128 asset(s)]
+2022-04-14 15:02:51,260 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - OpenWorld extracted - [32 of 128 asset(s)]
+2022-04-14 15:03:21,373 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - FARMSKYLINESTOKEN extracted - [33 of 128 asset(s)]
+2022-04-14 15:03:37,411 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - SpacePiToken extracted - [34 of 128 asset(s)]
+2022-04-14 15:04:31,165 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - DOG extracted - [35 of 128 asset(s)]
+2022-04-14 15:04:50,385 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - TipsyCoin extracted - [36 of 128 asset(s)]
+2022-04-14 15:05:02,649 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - FlyApy extracted - [37 of 128 asset(s)]
+2022-04-14 15:05:29,391 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Ratscoin extracted - [38 of 128 asset(s)]
+2022-04-14 15:06:10,841 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GOATCOIN extracted - [39 of 128 asset(s)]
+2022-04-14 15:06:52,876 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - LiberCoin extracted - [40 of 128 asset(s)]
+2022-04-14 15:07:16,637 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - AZSwap.io extracted - [41 of 128 asset(s)]
+2022-04-14 15:08:16,149 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - CryptoInu extracted - [42 of 128 asset(s)]
+2022-04-14 15:08:33,428 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - WEB3Doge extracted - [43 of 128 asset(s)]
+2022-04-14 15:09:23,467 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - 0Army.io extracted - [44 of 128 asset(s)]
+2022-04-14 15:09:56,761 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - AkkSwap.io extracted - [45 of 128 asset(s)]
+2022-04-14 15:10:19,613 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Catcoin extracted - [46 of 128 asset(s)]
+2022-04-14 15:11:23,983 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BeeToken extracted - [47 of 128 asset(s)]
+2022-04-14 15:11:46,111 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GafaDog extracted - [48 of 128 asset(s)]
+2022-04-14 15:12:41,014 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - 0ceanCoin.io extracted - [49 of 128 asset(s)]
+2022-04-14 15:13:05,468 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BNBDROPcoin extracted - [50 of 128 asset(s)]
+2022-04-14 15:14:06,828 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GARYSNAILCOIN extracted - [51 of 128 asset(s)]
+2022-04-14 15:14:30,898 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - CatBoy2.0 extracted - [52 of 128 asset(s)]
+2022-04-14 15:14:46,839 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - AutoDonateUkraine extracted - [53 of 128 asset(s)]
+2022-04-14 15:16:36,674 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - KITTENCOIN extracted - [54 of 128 asset(s)]
+2022-04-14 15:16:55,151 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GoddessSekhmetCoin extracted - [55 of 128 asset(s)]
+2022-04-14 15:17:28,670 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Boremon extracted - [56 of 128 asset(s)]
+2022-04-14 15:18:36,296 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - LunaRushToken extracted - [57 of 128 asset(s)]
+2022-04-14 15:18:55,442 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GreenCat extracted - [58 of 128 asset(s)]
+2022-04-14 15:19:40,963 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - TheKing extracted - [59 of 128 asset(s)]
+2022-04-14 15:19:59,256 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MeowCoin extracted - [60 of 128 asset(s)]
+2022-04-14 15:20:15,068 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - LoveUkraine extracted - [61 of 128 asset(s)]
+2022-04-14 15:20:34,153 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Unicat extracted - [62 of 128 asset(s)]
+2022-04-14 15:20:53,959 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Nekocoin extracted - [63 of 128 asset(s)]
+2022-04-14 15:21:14,997 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Avalanche extracted - [64 of 128 asset(s)]
+2022-04-14 15:21:32,902 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - CatYachtClub extracted - [65 of 128 asset(s)]
+2022-04-14 15:21:50,517 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MoonWorms extracted - [66 of 128 asset(s)]
+2022-04-14 15:22:08,289 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Paragen extracted - [67 of 128 asset(s)]
+2022-04-14 15:22:29,872 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - DinolandMetaverse extracted - [68 of 128 asset(s)]
+2022-04-14 15:22:39,669 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - rocketboys.io extracted - [69 of 128 asset(s)]
+2022-04-14 15:22:59,893 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - KATZ extracted - [70 of 128 asset(s)]
+2022-04-14 15:23:19,684 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Galeon extracted - [71 of 128 asset(s)]
+2022-04-14 15:23:40,383 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - ExaDarkSiderael extracted - [72 of 128 asset(s)]
+2022-04-14 15:23:57,602 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - ULTRASAFUU extracted - [73 of 128 asset(s)]
+2022-04-14 15:24:14,562 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MiniDoge.io extracted - [74 of 128 asset(s)]
+2022-04-14 15:24:34,445 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - LESLARMetaverse extracted - [75 of 128 asset(s)]
+2022-04-14 15:24:53,162 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - HelloKitty extracted - [76 of 128 asset(s)]
+2022-04-14 15:25:12,328 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - CATARM extracted - [77 of 128 asset(s)]
+2022-04-14 15:25:32,641 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Fenomy extracted - [78 of 128 asset(s)]
+2022-04-14 15:25:52,573 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - FLOKIEASTER extracted - [79 of 128 asset(s)]
+2022-04-14 15:26:10,806 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - DIVIDEND_TRACKER extracted - [80 of 128 asset(s)]
+2022-04-14 15:26:32,162 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MightyCat extracted - [81 of 128 asset(s)]
+2022-04-14 15:26:52,633 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - SafuuDoge extracted - [82 of 128 asset(s)]
+2022-04-14 15:27:15,170 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - LoopNetwork extracted - [83 of 128 asset(s)]
+2022-04-14 15:27:39,289 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - LoopSwap extracted - [84 of 128 asset(s)]
+2022-04-14 15:28:01,140 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MetaGameSpace extracted - [85 of 128 asset(s)]
+2022-04-14 15:28:30,835 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - SecretWorld extracted - [86 of 128 asset(s)]
+2022-04-14 15:28:50,556 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GreenMetaverseToken extracted - [87 of 128 asset(s)]
+2022-04-14 15:29:10,184 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - FistToken extracted - [88 of 128 asset(s)]
+2022-04-14 15:29:31,312 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - WingsProtocol extracted - [89 of 128 asset(s)]
+2022-04-14 15:29:51,057 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - ELONACOIN extracted - [90 of 128 asset(s)]
+2022-04-14 15:30:13,485 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - SuperSafuu extracted - [91 of 128 asset(s)]
+2022-04-14 15:30:35,581 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Mercury extracted - [92 of 128 asset(s)]
+2022-04-14 15:30:56,761 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - SpaceMeta extracted - [93 of 128 asset(s)]
+2022-04-14 15:31:16,506 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - DIVIDEND_TRACKER extracted - [94 of 128 asset(s)]
+2022-04-14 15:31:38,060 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - horgi extracted - [95 of 128 asset(s)]
+2022-04-14 15:32:00,958 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Overpowered extracted - [96 of 128 asset(s)]
+2022-04-14 15:32:22,592 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - St.PatricksCoin extracted - [97 of 128 asset(s)]
+2022-04-14 15:32:45,773 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BabyEterna extracted - [98 of 128 asset(s)]
+2022-04-14 15:33:05,089 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - AssHolePutin.org extracted - [99 of 128 asset(s)]
+2022-04-14 15:33:33,097 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - WIRTUAL extracted - [100 of 128 asset(s)]
+2022-04-14 15:33:56,529 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - ApeArm extracted - [101 of 128 asset(s)]
+2022-04-14 15:34:20,397 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MicroCats extracted - [102 of 128 asset(s)]
+2022-04-14 15:34:43,486 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GoldNugget extracted - [103 of 128 asset(s)]
+2022-04-14 15:35:07,685 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - ZenMoon extracted - [104 of 128 asset(s)]
+2022-04-14 15:35:47,501 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - PLOT extracted - [105 of 128 asset(s)]
+2022-04-14 15:36:10,383 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BabyCatBoy extracted - [106 of 128 asset(s)]
+2022-04-14 15:36:33,493 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - METAAPEGANGCOIN extracted - [107 of 128 asset(s)]
+2022-04-14 15:36:58,024 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GRAPEAPE extracted - [108 of 128 asset(s)]
+2022-04-14 15:37:22,387 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Cryptopool extracted - [109 of 128 asset(s)]
+2022-04-14 15:37:45,214 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - UltraSafeMoon extracted - [110 of 128 asset(s)]
+2022-04-14 15:38:11,904 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - PlexusDAO extracted - [111 of 128 asset(s)]
+2022-04-14 15:38:34,541 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Ape-Swap.io extracted - [112 of 128 asset(s)]
+2022-04-14 15:38:58,799 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Dripto extracted - [113 of 128 asset(s)]
+2022-04-14 15:39:24,519 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - SharkShakeSea extracted - [114 of 128 asset(s)]
+2022-04-14 15:39:49,769 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - KEIKO extracted - [115 of 128 asset(s)]
+2022-04-14 15:40:14,907 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - GamiToken extracted - [116 of 128 asset(s)]
+2022-04-14 15:40:40,876 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - CatYachtClubV2 extracted - [117 of 128 asset(s)]
+2022-04-14 15:41:07,023 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - FadoGo extracted - [118 of 128 asset(s)]
+2022-04-14 15:41:31,714 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Betero extracted - [119 of 128 asset(s)]
+2022-04-14 15:41:58,473 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - MStationToken extracted - [120 of 128 asset(s)]
+2022-04-14 15:42:24,891 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Catpay extracted - [121 of 128 asset(s)]
+2022-04-14 15:42:52,119 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BleuFi extracted - [122 of 128 asset(s)]
+2022-04-14 15:43:15,743 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - 0AssHolePutin.com extracted - [123 of 128 asset(s)]
+2022-04-14 15:43:39,423 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - LUNA-Swap.io extracted - [124 of 128 asset(s)]
+2022-04-14 15:44:04,458 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Synthetix.live extracted - [125 of 128 asset(s)]
+2022-04-14 15:44:32,928 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - Senspark extracted - [126 of 128 asset(s)]
+2022-04-14 15:45:00,067 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - BabyStarlinkInu extracted - [127 of 128 asset(s)]
+2022-04-14 15:45:27,107 - INFO: Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc - StarlinkInu extracted - [128 of 128 asset(s)]
+2022-04-14 15:45:27,108 - INFO: Extraction from Wallet: 0x6a7ba050d4abbb6948342d557f60d7bdd2ee30cc completed. Extracted [128 of 128 asset(s)]
+2022-04-14 15:45:35,629 - INFO: Data saved as: 'Wallet Result.csv' in 'Results' directory!
+2022-04-14 16:45:54,758 - INFO: Connected to the Internet!
+2022-04-14 16:45:59,516 - INFO: Checking for the existence of Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb...
+2022-04-14 16:45:59,517 - INFO: Please wait...
+2022-04-14 16:46:39,324 - INFO: Wallet address: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb exist!
+2022-04-14 16:46:44,396 - INFO: Trying to extract details of all asset(s) in 0xe76bb0d9de5564057732eb84f375dd14355cd3cb...
+2022-04-14 16:46:46,875 - INFO: There are a total of 44 asset(s) in 0xe76bb0d9de5564057732eb84f375dd14355cd3cb!
 You can press 'CTRL C' to PAUSE the extraction process!
-2022-03-27 06:39:59,951 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - bStake.net extracted - [1 of 41 asset(s)]
-2022-03-27 06:40:00,762 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GalacticQuadrant extracted - [2 of 41 asset(s)]
-2022-03-27 06:40:02,766 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - 0Army.io extracted - [3 of 41 asset(s)]
-2022-03-27 06:40:03,428 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Safuu extracted - [4 of 41 asset(s)]
-2022-03-27 06:40:04,138 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BUSD extracted - [5 of 41 asset(s)]
-2022-03-27 06:40:05,969 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - usdswap.io extracted - [6 of 41 asset(s)]
-2022-03-27 06:40:07,145 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - APE8.io extracted - [7 of 41 asset(s)]
-2022-03-27 06:40:07,667 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catpay extracted - [8 of 41 asset(s)]
-2022-03-27 06:40:08,455 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CatBoy extracted - [9 of 41 asset(s)]
-2022-03-27 06:40:08,833 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BitcoinCityCoin extracted - [10 of 41 asset(s)]
-2022-03-27 06:40:09,401 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LoopSwap extracted - [11 of 41 asset(s)]
-2022-03-27 06:40:09,889 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - METAKINGS extracted - [12 of 41 asset(s)]
-2022-03-27 06:40:10,350 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - DragonBallsToken extracted - [13 of 41 asset(s)]
-2022-03-27 06:40:10,824 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALCHEMIST extracted - [14 of 41 asset(s)]
-2022-03-27 06:40:11,203 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - MyGetRichToken extracted - [15 of 41 asset(s)]
-2022-03-27 06:40:51,443 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BatosaiInu extracted - [16 of 41 asset(s)]
-2022-03-27 06:40:51,974 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SaitamaINU extracted - [17 of 41 asset(s)]
-2022-03-27 06:40:52,547 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - IrukaInu extracted - [18 of 41 asset(s)]
-2022-03-27 06:40:53,040 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BTCBToken extracted - [19 of 41 asset(s)]
-2022-03-27 06:40:53,746 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - EthereumCityGold extracted - [20 of 41 asset(s)]
-2022-03-27 06:40:54,131 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SnoopDogInu extracted - [21 of 41 asset(s)]
-2022-03-27 06:40:54,692 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - ALDChain extracted - [22 of 41 asset(s)]
-2022-03-27 06:40:55,248 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - KINGCAESAR extracted - [23 of 41 asset(s)]
-2022-03-27 06:40:55,858 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Catcoin extracted - [24 of 41 asset(s)]
-2022-03-27 06:40:56,222 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - AkaInu extracted - [25 of 41 asset(s)]
-2022-03-27 06:41:46,244 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - Aquax extracted - [26 of 41 asset(s)]
-2022-03-27 06:41:46,866 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - GOKUINU extracted - [27 of 41 asset(s)]
-2022-03-27 06:41:47,255 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberRodeoCoin extracted - [28 of 41 asset(s)]
-2022-03-27 06:41:47,872 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NARUTOINU extracted - [29 of 41 asset(s)]
-2022-03-27 06:41:48,497 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - FameDogeCoin extracted - [30 of 41 asset(s)]
-2022-03-27 06:41:49,127 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CyberNinja extracted - [31 of 41 asset(s)]
-2022-03-27 06:41:49,711 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - NinaInu extracted - [32 of 41 asset(s)]
-2022-03-27 06:41:50,207 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CarryDoge extracted - [33 of 41 asset(s)]
-2022-03-27 06:41:50,961 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PornAPE extracted - [34 of 41 asset(s)]
-2022-03-27 06:41:51,341 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - OppaiInu extracted - [35 of 41 asset(s)]
-2022-03-27 06:41:51,801 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - SilverRayleighInu extracted - [36 of 41 asset(s)]
-2022-03-27 06:41:52,288 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - LUFFYCAT extracted - [37 of 41 asset(s)]
-2022-03-27 06:41:52,966 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - PozoGiftClub extracted - [38 of 41 asset(s)]
-2022-03-27 06:41:53,336 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - CROCOCOIN extracted - [39 of 41 asset(s)]
-2022-03-27 06:41:53,717 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - BNB extracted - [40 of 41 asset(s)]
-2022-03-27 06:41:54,117 - INFO: Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc - VORTEXCHAIN extracted - [41 of 41 asset(s)]
-2022-03-27 06:41:54,118 - INFO: Extraction from Wallet: 0xcf9b378f6f9b3c2118842200d56b54524002a5fc completed. Extracted [41 of 41 asset(s)]
-2022-03-27 06:42:02,041 - INFO: Data saved as: '0xcf9b378f6f9b3c2118842200d56b54524002a5fc.csv' in 'Results' directory!
+2022-04-14 16:46:50,774 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - Zepe.io extracted - [1 of 44 asset(s)]
+2022-04-14 16:46:51,380 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - VeloChain.io extracted - [2 of 44 asset(s)]
+2022-04-14 16:46:51,979 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - ALPACAFIN.COM extracted - [3 of 44 asset(s)]
+2022-04-14 16:46:52,530 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - BestAir.io extracted - [4 of 44 asset(s)]
+2022-04-14 16:46:53,005 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - AGMC.io extracted - [5 of 44 asset(s)]
+2022-04-14 16:46:53,549 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - Zepe.io extracted - [6 of 44 asset(s)]
+2022-04-14 16:46:54,072 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - GoFlux.io extracted - [7 of 44 asset(s)]
+2022-04-14 16:46:54,552 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - TheVera.io extracted - [8 of 44 asset(s)]
+2022-04-14 16:46:55,017 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - bStake.net extracted - [9 of 44 asset(s)]
+2022-04-14 16:46:55,409 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - XCH5.io extracted - [10 of 44 asset(s)]
+2022-04-14 16:46:56,014 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - AgileSwap.io extracted - [11 of 44 asset(s)]
+2022-04-14 16:46:56,716 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - usdswap.io extracted - [12 of 44 asset(s)]
+2022-04-14 16:46:57,385 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - BGGB.org extracted - [13 of 44 asset(s)]
+2022-04-14 16:46:57,959 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - ITAMCube extracted - [14 of 44 asset(s)]
+2022-04-14 16:46:58,799 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - MinereumBSC extracted - [15 of 44 asset(s)]
+2022-04-14 16:46:59,479 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - MetaQueen extracted - [16 of 44 asset(s)]
+2022-04-14 16:47:00,433 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - BUSDT extracted - [17 of 44 asset(s)]
+2022-04-14 16:47:01,530 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - CryptoGoldBox extracted - [18 of 44 asset(s)]
+2022-04-14 16:47:02,345 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - PYE extracted - [19 of 44 asset(s)]
+2022-04-14 16:47:03,009 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - 0ApplyRichToken extracted - [20 of 44 asset(s)]
+2022-04-14 16:47:03,603 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - DAPPSY extracted - [21 of 44 asset(s)]
+2022-04-14 16:47:04,287 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - pTokensCGG extracted - [22 of 44 asset(s)]
+2022-04-14 16:47:04,846 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - KalmarToken extracted - [23 of 44 asset(s)]
+2022-04-14 16:47:05,480 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - PancakeSwapToken extracted - [24 of 44 asset(s)]
+2022-04-14 16:47:06,320 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - EverGrowCoin extracted - [25 of 44 asset(s)]
+2022-04-14 16:47:06,843 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - BNB extracted - [26 of 44 asset(s)]
+2022-04-14 16:47:07,456 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - BitWellToken extracted - [27 of 44 asset(s)]
+2022-04-14 16:47:08,004 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - USD9.io extracted - [28 of 44 asset(s)]
+2022-04-14 16:47:08,481 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - BUSD extracted - [29 of 44 asset(s)]
+2022-04-14 16:47:09,175 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - SafeMoon extracted - [30 of 44 asset(s)]
+2022-04-14 16:47:10,091 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - HYFI extracted - [31 of 44 asset(s)]
+2022-04-14 16:47:10,813 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - BitWellToken extracted - [32 of 44 asset(s)]
+2022-04-14 16:47:11,430 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - CumRocket extracted - [33 of 44 asset(s)]
+2022-04-14 16:47:12,089 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - ANTISINU extracted - [34 of 44 asset(s)]
+2022-04-14 16:47:12,519 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - 0ceanCoin.io extracted - [35 of 44 asset(s)]
+2022-04-14 16:47:13,210 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - SafeMoon extracted - [36 of 44 asset(s)]
+2022-04-14 16:47:13,883 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - AABEK.net extracted - [37 of 44 asset(s)]
+2022-04-14 16:47:14,611 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - CREAMPYE extracted - [38 of 44 asset(s)]
+2022-04-14 16:47:15,354 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - EthereumToken extracted - [39 of 44 asset(s)]
+2022-04-14 16:47:15,957 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - PancakeLPs extracted - [40 of 44 asset(s)]
+2022-04-14 16:47:16,728 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - ITAM extracted - [41 of 44 asset(s)]
+2022-04-14 16:47:17,189 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - h3x.exchange extracted - [42 of 44 asset(s)]
+2022-04-14 16:47:17,675 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - rocketboys.io extracted - [43 of 44 asset(s)]
+2022-04-14 16:47:18,122 - INFO: Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb - MiniDoge.io extracted - [44 of 44 asset(s)]
+2022-04-14 16:47:18,123 - INFO: Extraction from Wallet: 0xe76bb0d9de5564057732eb84f375dd14355cd3cb completed. Extracted [44 of 44 asset(s)]
+2022-04-14 16:47:21,557 - INFO: Data saved as: 'Wallet Result.csv' in 'Results' directory!
