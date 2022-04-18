@@ -228,7 +228,7 @@ def wallet_crawler() -> None:
     except Exception as e:
         driver.quit()
         print("Something went wrong!")
-        # print(f"{e} in Line {sys.exc_info()[-1].tb_lineno}")
+        # print(f"{e} in Line {sys.exc_info()[-1].tb_lineno}") 
 
 if __name__ == "__main__":
     wallet_crawler()
