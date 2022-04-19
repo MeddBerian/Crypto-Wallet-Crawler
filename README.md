@@ -58,7 +58,7 @@ The visualization contains important metrics such as:
 
 A link to an interactive preview of the visualization >>> [Click me](https://app.powerbi.com/view?r=eyJrIjoiYzRhYjEwN2EtMzFjNS00ZWVlLThkNjItYTI5ZWJjOGY2MDMzIiwidCI6ImY1NTAyNjhkLTcwMzYtNDVkYi04ZTgwLTI2MjMyZGY2MjMyMCIsImMiOjF9&pageName=ReportSectiona19f1c9c034971050322)
 
-Below is a pictoral snapshot of the visualization.
+Below are pictoral snapshots of the visualization.
 
 ![vis1](https://user-images.githubusercontent.com/99067011/163991792-3950fb8c-00de-4c99-87b6-5d3185581e3e.JPG)
 ![vis2](https://user-images.githubusercontent.com/99067011/163991798-e85502d2-84d4-4356-8465-bc327a088f15.JPG)
